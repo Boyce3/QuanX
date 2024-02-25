@@ -11,15 +11,6 @@ host,sycm.mmstat.com, direct
 
 
 # >>>>>>>>>>>>>>> ✅ E ✅ <<<<<<<<<<<<<<
-# > Emby
-host,direct.lyrebirdemby.com, direct
-host,cdn.lyrebirdemby.com, direct
-host,789.123456.al, direct
-host,emby.bangumi.ca, direct
-host,new.xmsl.org, direct
-host,cfhd.xmsl.org, direct
-host,cf2.jmsooo.com, direct
-host,film.ohhhh.org, direct
 
 
 # >>>>>>>>>>>>>>> ✅ M ✅ <<<<<<<<<<<<<<
