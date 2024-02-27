@@ -149,6 +149,8 @@ HOST, switch.cup.com.cn, REJECT
 HOST, tysdk.95516.com, REJECT
 
 # ======= Z ======= #
+# 作业精灵
+HOST, dsp-x.jd.com, REJEDIT
 # 知乎
 HOST, appcloud.zhihu.com, REJECT
 HOST, appcloud2.in.zhihu.com, REJECT
