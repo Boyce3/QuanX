@@ -51,7 +51,6 @@ HOST-KEYWORD, ads.g.doubleclick, REJECT
 # ======= G ======= #
 # 高德地图
 HOST, amap-aos-info-nogw.amap.com, REJECT
-HOST, awaken.amap.com, REJECT
 # 工商银行 开屏广告
 HOST, image.mybank.icbc.com.cn, REJECT
 HOST, pageviewp.icbc.com.cn, REJECT
