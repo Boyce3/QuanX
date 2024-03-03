@@ -85,6 +85,10 @@ IP6-CIDR, 2402:db40:5100:1011::5/128, REJECT
 HOST, statics.woozooo.com, REJECT
 
 # ======= M ======= #
+# 美团
+HOST, maplocatesdksnapshot.d.meituan.net, REJECT
+HOST, metrics-picture.d.meituan.net, REJECT
+IP-CIDR, 103.37.155.60/32, REJECT
 
 # ======= O ======= #
 
