@@ -113,6 +113,9 @@ HOST, info6.video.qq.com, REJECT
 HOST, ios.video.mpush.qq.com, REJECT
 HOST, otheve.beacon.qq.com, REJECT
 HOST, pgdt.gtimg.cn, REJECT
+HOST, tmead.y.qq.com, REJECT
+HOST, tmeadbak.y.qq.com, REJECT
+HOST, tmeadcomm.y.qq.com, REJECT
 HOST, tpns.qq.com, REJECT
 HOST-SUFFIX, gdt.qq.com, REJECT
 HOST-SUFFIX, l.qq.com, REJECT
@@ -149,7 +152,7 @@ HOST, vali-g1.cp31.ott.cibntv.net, REJECT
 HOST, vali-ugc.cp31.ott.cibntv.net, REJECT
 HOST, yk-ssp.ad.youku.com, REJECT
 HOST, ykad-data.youku.com, REJECT
-HOST, youku-acs.m.taobao.com, REJECT
+HOST, youku-acs.m.taobao.com, REJEC
 # 云闪付 开屏广告
 HOST, ads.95516.com, REJECT
 HOST, switch.cup.com.cn, REJECT
