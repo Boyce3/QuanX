@@ -34,6 +34,9 @@ Host, upos-sz-staticcos.bilivideo.com, REJECT
 # 百度
 HOST, mobads.baidu.com, REJECT
 HOST-SUFFIX, pos.baidu.com, REJECT
+# 百度
+IP-CIDR, 180.76.76.112/32, REJECT
+IP-CIDR, 180.76.76.200/32, REJECT
 
 # ======= C ======= #
 # 彩云天气
