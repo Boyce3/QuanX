@@ -3,3 +3,7 @@
 # ======= B ======= #
 # 哔哩哔哩
 Host, upos-sz-staticcos.bilivideo.com, REJECT
+
+# ======= X ======= #
+# 小红书
+HOST, fe-static.xhscdn.com, REJECT
