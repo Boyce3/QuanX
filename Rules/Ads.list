@@ -10,4 +10,4 @@ host, fe-static.xhscdn.com, REJECT
 
 # ======= X ======= #
 # 作业精灵
-host-suffix, dsp-x.jd.com
+host-suffix, dsp-x.jd.com,REJECT
