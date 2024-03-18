@@ -1,4 +1,4 @@
-# 2024-03-01
+# 2024-03-18
 
 # ======= B ======= #
 # 哔哩哔哩
@@ -7,3 +7,7 @@ Host, upos-sz-staticcos.bilivideo.com, REJECT
 # ======= X ======= #
 # 小红书
 HOST, fe-static.xhscdn.com, REJECT
+
+# ======= X ======= #
+# 作业精灵
+
