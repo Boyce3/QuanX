@@ -2,12 +2,12 @@
 
 # ======= B ======= #
 # 哔哩哔哩
-Host, upos-sz-staticcos.bilivideo.com, REJECT
+host, upos-sz-staticcos.bilivideo.com, REJECT
 
 # ======= X ======= #
 # 小红书
-HOST, fe-static.xhscdn.com, REJECT
+host, fe-static.xhscdn.com, REJECT
 
 # ======= X ======= #
 # 作业精灵
-
+host-suffix, dsp-x.jd.com
