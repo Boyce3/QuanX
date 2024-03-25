@@ -4,6 +4,9 @@
 # 哔哩哔哩
 host, upos-sz-staticcos.bilivideo.com, REJECT
 
+# ======= G ======= #
+host-suffix, beizi.biz, REJECT
+
 # ======= X ======= #
 # 小红书
 host, fe-static.xhscdn.com, REJECT
