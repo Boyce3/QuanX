@@ -24,6 +24,7 @@ host, cf.imetyou.top,emby
 # Apop公益服
 host, api.apopcloud.me,emby
 host, emby.apopcloud.com,emby
+host,portal.apopcloud.com,emby
 # 牢大的野兽餐厅
 host, emby-us-v4.mius.uk,emby
 # 田小瑞
