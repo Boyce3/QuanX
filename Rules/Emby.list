@@ -1,4 +1,4 @@
-# 更新时间2024-04-25
+# 更新时间2024-04-26
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -27,6 +27,7 @@ host, emby.apopcloud.com,emby
 host,portal.apopcloud.com,emby
 # 牢大的野兽餐厅
 host, emby-us-v4.mius.uk,emby
+host, emby-fr-v6.mius.uk,emby
 # 田小瑞
 host, emby.txrui.top,emby
 # 飞跃彩虹
