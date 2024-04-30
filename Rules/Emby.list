@@ -33,7 +33,7 @@ host, emby.txrui.top,emby
 # 飞跃彩虹
 IP-CIDR, 152.53.19.231/32,emby
 # 终点站
-host, pub1.emby.wtf
-host, pub2.emby.wtf
-host, pub3.emby.wtf
+host, pub1.emby.wtf,emby
+host, pub2.emby.wtf,emby
+host, pub3.emby.wtf,emby
 
