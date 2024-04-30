@@ -32,3 +32,8 @@ host, emby-fr-v6.mius.uk,emby
 host, emby.txrui.top,emby
 # 飞跃彩虹
 IP-CIDR, 152.53.19.231/32,emby
+# 终点站
+host, https://pub1.emby.wtf
+host, https://pub2.emby.wtf
+host, https://pub3.emby.wtf
+
