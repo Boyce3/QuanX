@@ -1,4 +1,4 @@
-# 更新时间2024-05-01
+# 更新时间2024-05-02
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -30,7 +30,7 @@ host, emby-fr-v6.mius.uk,emby
 # 田小瑞
 host, emby.txrui.top,emby
 # 飞跃彩虹
-IP-CIDR, 152.53.19.231/32,emby
+host, 7777777.buzz,emby
 # 终点站
 host, pub1.emby.wtf,emby
 host, pub2.emby.wtf,emby
