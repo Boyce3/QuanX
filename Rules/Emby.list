@@ -20,8 +20,9 @@ host, emby3.mcjoker.xyz,emby
 # 江湖
 host-suffix, reddust.link,emby
 # 纸片人小站
-host-suffix, embyplus.org,emby
-host-suffix, gd.9521732.xyz,emby
+host, embyplus.org,emby
+host, gd.9521732.xyz,emby
+host, chirsemby.top,emby
 # paul_电报服
 host, cf.imetyou.top,emby
 # Apop公益服
