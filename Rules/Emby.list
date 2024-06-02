@@ -26,8 +26,8 @@ host, chirsemby.top,emby
 # paul_电报服
 host, cf.imetyou.top,emby
 # Apop公益服
-host, portal.apopcloud.com,emby
-host, emby.apopcloud.com,emby
+host, api.apopcloud.me,emby
+host, emby.apopcloud.me,emby
 # 牢大的野兽餐厅
 host, emby-us-v4.mius.uk,emby
 host, emby-fr-v6.mius.uk,emby
