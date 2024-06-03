@@ -1,4 +1,4 @@
-# 更新时间2024-06-03
+# 更新时间2024-06-04
 
 # tmdb
 host, image.tmdb.org,tmdb
@@ -41,3 +41,5 @@ host, pub3.emby.wtf,emby
 host, i109.com,emby
 # 大V影院-Su
 host, su.viclub.top,emby
+# 卡戎
+host, play.charontv.com,emby
