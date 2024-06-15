@@ -1,4 +1,4 @@
-# 更新时间2024-06-13
+# 更新时间2024-06-16
 
 # tmdb
 host, image.tmdb.org,tmdb
@@ -34,6 +34,7 @@ host, emby-us-v4.mius.uk,emby
 host, emby-fr-v6.mius.uk,emby
 # 飞跃彩虹焕新版
 host, 581658.best,emby
+host, 7777777.buzz,emby
 # 终点站
 host, pub1.emby.wtf,emby
 host, pub2.emby.wtf,emby
