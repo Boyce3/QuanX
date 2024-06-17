@@ -1,4 +1,4 @@
-# 更新时间2024-06-16
+# 更新时间2024-06-17
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -40,6 +40,8 @@ host, pub3.emby.wtf,emby
 # Heisi
 host, i109.com,emby
 host, heisi.nekobox.best,emby
+host, h1.i109.com,emby
+host, h2.i109.com,emby
 # 大V影院-Su
 host, su.viclub.top,emby
 # 卡戎
