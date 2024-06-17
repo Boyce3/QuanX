@@ -1,7 +1,5 @@
 # 更新时间2024-06-16
 
-# tmdb
-host, image.tmdb.org,tmdb
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
 # TreeDiagram
@@ -41,6 +39,7 @@ host, pub2.emby.wtf,emby
 host, pub3.emby.wtf,emby
 # Heisi
 host, i109.com,emby
+host, heisi.nekobox.best,emby
 # 大V影院-Su
 host, su.viclub.top,emby
 # 卡戎
