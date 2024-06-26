@@ -47,4 +47,5 @@ host, play.charontv.com,emby
 # 阿甘正传
 host, agan2.vip,emby
 # StarCat - Flare
-host-suffix, flare.catlinks.co.uk,emby
+host-suffix, catlinks.co.uk,emby
+
