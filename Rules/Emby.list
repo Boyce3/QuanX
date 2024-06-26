@@ -1,4 +1,4 @@
-# 更新时间2024-06-25
+# 更新时间2024-06-26
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -46,3 +46,5 @@ host, su.viclub.top,emby
 host, play.charontv.com,emby
 # 阿甘正传
 host, agan2.vip,emby
+# StarCat - Flare
+host, flare.catlinks.co.uk,emby
