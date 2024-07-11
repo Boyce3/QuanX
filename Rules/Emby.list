@@ -1,4 +1,4 @@
-# 更新时间2024-07-11
+# 更新时间2024-07-12
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -52,4 +52,5 @@ host, ehsifohesiohgesfhrioe3.puddingcat.de,emby
 # cc
 host, cc.coemn.com,emby
 host, yd2.carryz.net,emby
-
+# Nanflix
+host, emby.tnx.one,emby
