@@ -10,6 +10,8 @@ host-suffix, beizi.biz, REJECT
 # ======= X ======= #
 # 小红书
 host, fe-static.xhscdn.com, REJECT
+# 小蚕霸王餐
+host, sdk.1rtb.net, REJECT
 
 # ======= X ======= #
 # 作业精灵
