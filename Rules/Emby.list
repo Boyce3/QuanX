@@ -1,4 +1,4 @@
-# 更新时间2024-07-12
+# 更新时间2024-07-15
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -16,7 +16,7 @@ host, free.emby.eu.org,emby
 host, jz.mcjoker.xyz,emby
 host, emby3.mcjoker.xyz,emby
 # 江湖
-host-suffix, reddust.link,emby
+host, jh.happyav.eu.org
 # 纸片人小站
 host-suffix, embyplus.org,emby
 host, gd.9521732.xyz,emby
