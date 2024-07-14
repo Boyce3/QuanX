@@ -16,7 +16,7 @@ host, free.emby.eu.org,emby
 host, jz.mcjoker.xyz,emby
 host, emby3.mcjoker.xyz,emby
 # 江湖
-host, jh.happyav.eu.org
+host, jh.happyav.eu.org,emby
 # 纸片人小站
 host-suffix, embyplus.org,emby
 host, gd.9521732.xyz,emby
