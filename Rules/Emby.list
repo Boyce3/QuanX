@@ -1,4 +1,4 @@
-# 更新时间2024-07-15
+# 更新时间2024-07-24
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -21,6 +21,8 @@ host, jh.happyav.eu.org,emby
 host-suffix, embyplus.org,emby
 host, gd.9521732.xyz,emby
 host, chirsemby.top,emby
+# PiliPili
+host, emby.pilipiliultra.com,emby
 # paul_电报服
 host, cf.imetyou.top,emby
 # Apop公益服
