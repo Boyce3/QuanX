@@ -19,11 +19,10 @@ host, film.hovervan.org,emby
 host, emby.bangumi.ca,emby
 # TreeDiagram
 host, 789.123456.al,emby
-
-
-
 # 尘烬
 host, free.emby.eu.org,emby
+
+
 # 叔服
 host, jz.mcjoker.xyz,emby
 host, emby3.mcjoker.xyz,emby
