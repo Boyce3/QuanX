@@ -1,13 +1,14 @@
-# 更新时间2024-07-24
+# 更新时间2024-07-25
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
+# 卷毛鼠公益服
+host, cf2.jmsooo.com,emby
 # TreeDiagram
 host, 789.123456.al,emby
 # nyamedia
 host, emby.bangumi.ca,emby
-# 卷毛鼠公益服
-host, cf2.jmsooo.com,emby
+
 # NMEmby
 host, film.hovervan.org,emby
 # 尘烬
