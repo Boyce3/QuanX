@@ -28,7 +28,8 @@ host, emby.apopcloud.com,emby
 # 牢大的野兽餐厅
 host, emby-us-v4.mius.uk,emby
 host, emby-fr-v6.mius.uk,emby
-
+# 大V影院-Su
+host, su.viclub.top,emby
 
 
 
@@ -51,8 +52,7 @@ host, i109.com,emby
 host, heisi.nekobox.best,emby
 host, h1.i109.com,emby
 host, h2.i109.com,emby
-# 大V影院-Su
-host, su.viclub.top,emby
+
 # 卡戎
 host, play.charontv.com,emby
 # 阿甘正传
