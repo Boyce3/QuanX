@@ -15,13 +15,15 @@ host, emby.pilipiliultra.com,emby
 host, stream_pilipili.misakaf.org,emby
 # NMEmby
 host, film.hovervan.org,emby
+# nyamedia
+host, emby.bangumi.ca,emby
+
 
 
 
 # TreeDiagram
 host, 789.123456.al,emby
-# nyamedia
-host, emby.bangumi.ca,emby
+
 
 
 # 尘烬
