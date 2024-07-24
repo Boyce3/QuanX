@@ -28,39 +28,26 @@ host, emby.apopcloud.com,emby
 # 牢大的野兽餐厅
 host, emby-us-v4.mius.uk,emby
 host, emby-fr-v6.mius.uk,emby
-# 大V影院-Su
+# 大V影院
 host, su.viclub.top,emby
-
-
-
-# 叔服
-host, jz.mcjoker.xyz,emby
-host, emby3.mcjoker.xyz,emby
-# 江湖
-host, jh.happyav.eu.org,emby
-
-
-
-
-
-# 飞跃彩虹焕新版
+# 飞跃彩虹
 host, 581658.best,emby
 host, 7777777.buzz,emby
-
 # Heisi
 host, i109.com,emby
 host, heisi.nekobox.best,emby
 host, h1.i109.com,emby
 host, h2.i109.com,emby
-
+# 叔服
+host, emby3.mcjoker.xyz,emby
+# 江湖
+host, jh.happyav.eu.org,emby
 # 卡戎
 host, play.charontv.com,emby
-# 阿甘正传
-host, agan2.vip,emby
 # StarCat
 host-suffix, catlinks.co.uk,emby
 host, ehsifohesiohgesfhrioe3.puddingcat.de,emby
-# CC公益服
+# CC
 host, cc.coemn.com,emby
 host, yd2.carryz.net,emby
 # Nanflix
