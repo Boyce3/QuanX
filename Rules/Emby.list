@@ -21,6 +21,11 @@ host, emby.bangumi.ca,emby
 host, 789.123456.al,emby
 # 尘烬
 host, free.emby.eu.org,emby
+# paul_电报服
+host, cf.imetyou.top,emby
+# 牢大的野兽餐厅
+host, emby-us-v4.mius.uk,emby
+host, emby-fr-v6.mius.uk,emby
 
 
 # 叔服
@@ -30,13 +35,10 @@ host, emby3.mcjoker.xyz,emby
 host, jh.happyav.eu.org,emby
 
 
-# paul_电报服
-host, cf.imetyou.top,emby
+
 # Apop公益服
 host, emby.apopcloud.com,emby
-# 牢大的野兽餐厅
-host, emby-us-v4.mius.uk,emby
-host, emby-fr-v6.mius.uk,emby
+
 # 飞跃彩虹焕新版
 host, 581658.best,emby
 host, 7777777.buzz,emby
