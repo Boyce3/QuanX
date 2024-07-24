@@ -8,6 +8,11 @@ host, cf2.jmsooo.com,emby
 host, pub1.emby.wtf,emby
 host, pub2.emby.wtf,emby
 host, pub3.emby.wtf,emby
+# 纸片人小站
+host-suffix, embyplus.org,emby
+# PiliPili
+host, emby.pilipiliultra.com,emby
+host, stream_pilipili.misakaf.org,emby
 
 
 
@@ -25,11 +30,8 @@ host, jz.mcjoker.xyz,emby
 host, emby3.mcjoker.xyz,emby
 # 江湖
 host, jh.happyav.eu.org,emby
-# 纸片人小站
-host-suffix, embyplus.org,emby
-# PiliPili
-host, emby.pilipiliultra.com,emby
-host, stream_pilipili.misakaf.org,emby
+
+
 # paul_电报服
 host, cf.imetyou.top,emby
 # Apop公益服
