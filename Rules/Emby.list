@@ -23,9 +23,13 @@ host, 789.123456.al,emby
 host, free.emby.eu.org,emby
 # paul_电报服
 host, cf.imetyou.top,emby
+# Apop公益服
+host, emby.apopcloud.com,emby
 # 牢大的野兽餐厅
 host, emby-us-v4.mius.uk,emby
 host, emby-fr-v6.mius.uk,emby
+
+
 
 
 # 叔服
@@ -36,8 +40,7 @@ host, jh.happyav.eu.org,emby
 
 
 
-# Apop公益服
-host, emby.apopcloud.com,emby
+
 
 # 飞跃彩虹焕新版
 host, 581658.best,emby
