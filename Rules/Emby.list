@@ -4,6 +4,13 @@
 host, cdn.lyrebirdemby.com,emby
 # 卷毛鼠公益服
 host, cf2.jmsooo.com,emby
+# 终点站
+host, pub1.emby.wtf,emby
+host, pub2.emby.wtf,emby
+host, pub3.emby.wtf,emby
+
+
+
 # TreeDiagram
 host, 789.123456.al,emby
 # nyamedia
@@ -33,10 +40,7 @@ host, emby-fr-v6.mius.uk,emby
 # 飞跃彩虹焕新版
 host, 581658.best,emby
 host, 7777777.buzz,emby
-# 终点站
-host, pub1.emby.wtf,emby
-host, pub2.emby.wtf,emby
-host, pub3.emby.wtf,emby
+
 # Heisi
 host, i109.com,emby
 host, heisi.nekobox.best,emby
