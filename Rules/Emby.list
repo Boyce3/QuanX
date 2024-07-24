@@ -2,7 +2,7 @@
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
-# 卷毛鼠公益服
+# 卷毛鼠
 host, cf2.jmsooo.com,emby
 # 终点站
 host, pub1.emby.wtf,emby
@@ -13,6 +13,8 @@ host-suffix, embyplus.org,emby
 # PiliPili
 host, emby.pilipiliultra.com,emby
 host, stream_pilipili.misakaf.org,emby
+# NMEmby
+host, film.hovervan.org,emby
 
 
 
@@ -21,8 +23,7 @@ host, 789.123456.al,emby
 # nyamedia
 host, emby.bangumi.ca,emby
 
-# NMEmby
-host, film.hovervan.org,emby
+
 # 尘烬
 host, free.emby.eu.org,emby
 # 叔服
