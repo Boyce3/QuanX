@@ -40,8 +40,6 @@ host, h1.i109.com,emby
 host, h2.i109.com,emby
 # 叔服
 host, emby3.mcjoker.xyz,emby
-# 江湖
-host, jh.happyav.eu.org,emby
 # 卡戎
 host, play.charontv.com,emby
 # StarCat
