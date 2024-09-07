@@ -14,7 +14,7 @@ host, pub3.emby.wtf,emby
 # 纸片人小站
 host-suffix, embyplus.org,emby
 # PiliPili
-host, emby.pilipiliultra.com,emby
+host, pilipili.club,emby
 host, stream_pilipili.misakaf.org,emby
 # NMEmby
 host, film.hovervan.org,emby
