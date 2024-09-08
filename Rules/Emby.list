@@ -54,3 +54,5 @@ host, cc.coemn.com,emby
 IP-CIDR, 193.123.252.106/32,emby
 # Nanflix
 host, nanflix.net,emby
+# AWA影视
+host, tv.811861.xyz,emby
