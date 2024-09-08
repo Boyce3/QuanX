@@ -51,8 +51,9 @@ host-suffix, catlinks.co.uk,emby
 host, ehsifohesiohgesfhrioe3.puddingcat.de,emby
 # CC
 host, cc.coemn.com,emby
-IP-CIDR, 193.123.252.106/32,emby
+ip-cidr, 193.123.252.106/32,emby
 # Nanflix
 host, nanflix.net,emby
 # AWA影视
 host, tv.811861.xyz,emby
+ip-cidr, 38.58.181.218/32,emby
