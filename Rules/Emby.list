@@ -56,9 +56,9 @@ ip-cidr, 193.123.252.106/32,emby
 host, nanflix.net,emby
 # AWA影视
 host, tv.811861.xyz,emby
-# 西瓜
-host, emby.1024.name,emby
 ip-cidr, 38.58.181.218/32,emby
-#lily emby
+#lily
 host, emby.lilyya.xyz,emby
 host, cdnemby.lilyya.xyz,emby
+# 西瓜
+host, emby.1024.name,emby
