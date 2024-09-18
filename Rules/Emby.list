@@ -1,4 +1,4 @@
-# 更新时间2024-09-15
+# 更新时间2024-09-18
 
 # 音乐服
 host, music.iuii.org,emby
@@ -56,6 +56,8 @@ ip-cidr, 193.123.252.106/32,emby
 host, nanflix.net,emby
 # AWA影视
 host, tv.811861.xyz,emby
+# 西瓜
+host, emby.1024.name,emby
 ip-cidr, 38.58.181.218/32,emby
 #lily emby
 host, emby.lilyya.xyz,emby
