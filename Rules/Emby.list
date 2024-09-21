@@ -1,4 +1,4 @@
-# 更新时间2024-09-21
+# 更新时间2024-09-22
 
 # 音乐服
 host, music.iuii.org,emby
@@ -28,6 +28,7 @@ host, free.emby.eu.org,emby
 host, cf.imetyou.top,emby
 # Apop公益服
 host, de.apopcloud.live,emby
+ip-cidr, 132.226.20.31/32,emby
 # 牢大的野兽餐厅
 host, emby-micax-ca-v2.mius.uk,emby
 host, emby-mica-us-v1.mius.uk,emby
