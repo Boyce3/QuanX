@@ -1,4 +1,4 @@
-# 2024-08-02
+# 2024-08-28
 
 # ======= B ======= #
 # 哔哩哔哩
@@ -14,8 +14,6 @@ host-suffix, wxs.qq.com, REJECT
 # ======= X ======= #
 # 小红书
 host, fe-static.xhscdn.com, REJECT
-# 小蚕霸王餐
-host, sdk.1rtb.net, REJECT
 
 # ======= X ======= #
 # 作业精灵
