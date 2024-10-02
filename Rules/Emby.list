@@ -1,4 +1,4 @@
-# 更新时间2024-10-01
+# 更新时间2024-10-03
 
 # 音乐服
 host, music.iuii.org,emby
@@ -62,6 +62,7 @@ ip-cidr, 38.58.181.218/32,emby
 #lily
 host, emby.lilyya.xyz,emby
 host, cdnemby.lilyya.xyz,emby
+host, cfemby.lilyya.xyz,emby
 # 西瓜
 host, emby.1024.name,emby
 # hka
