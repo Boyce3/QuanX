@@ -29,7 +29,7 @@ host, cf.imetyou.top,emby
 # Apop公益服
 host, de.apopcloud.live,emby
 ip-cidr, 132.226.20.31/32,emby
-ip-cidr, 208.75.134.189,emby
+ip-cidr, 208.75.134.189/32,emby
 # 牢大的野兽餐厅
 host, emby-micax-ca-v2.mius.uk,emby
 host, emby-mica-us-v1.mius.uk,emby
