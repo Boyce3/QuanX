@@ -1,4 +1,4 @@
-# 更新时间2024-10-03
+# 更新时间2024-10-04
 
 # 音乐服
 host, music.iuii.org,emby
@@ -71,3 +71,5 @@ host, emby.1024.name,emby
 host, hka-emby.aliz.work,emby
 # 见手青
 host, jsq.mooguu.top,emby
+# AlphaTV海外服
+host, oversea.alphatvapp.top,emby
