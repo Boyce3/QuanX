@@ -73,6 +73,8 @@ host, embyhk.lilyya.xyz,emby
 host-suffix, 1024.name,emby
 # hka
 host, hka-emby.aliz.work,emby
+host, hka-emby1.aliz.work,emby
+host, hka-emby2.aliz.work,emby
 # 见手青
 host, jsq.mooguu.top,emby
 # AlphaTV海外服
