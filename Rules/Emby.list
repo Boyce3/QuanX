@@ -9,8 +9,11 @@ host, cdn.lyrebirdemby.com,emby
 host, cf2.jmsuper.com,emby
 # 终点站
 host, pub1.emby.wtf,emby
+host, pub1.term.wtf,emby
 host, pub2.emby.wtf,emby
+host, pub2.term.wtf,emby
 host, pub3.emby.wtf,emby
+host, pub3.term.wtf,emby
 # 纸片人小站
 host-suffix, embyplus.org,emby
 # PiliPili
