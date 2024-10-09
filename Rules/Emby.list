@@ -6,7 +6,7 @@ host, axk.123456.buzz,emby
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
 # 卷毛鼠
-host, cf2.jmsuper.com,emby
+host-suffix, jmsuper.com,emby
 # 终点站
 host, pub1.emby.wtf,emby
 host, pub1.term.wtf,emby
