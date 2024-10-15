@@ -30,7 +30,7 @@ host, free.emby.eu.org,emby
 # paul_电报服
 host, cf.imetyou.top,emby
 # Apop公益服
-host, de.apopcloud.live,emby
+host-suffix, apopcloud.live,emby
 ip-cidr, 132.226.20.31/32,emby
 ip-cidr, 208.75.134.189/32,emby
 # 牢大的野兽餐厅
