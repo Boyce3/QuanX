@@ -1,4 +1,4 @@
-# 更新时间2024-10-16
+# 更新时间2024-10-20
 
 # 音乐服
 host, music.iuii.org,emby
@@ -43,6 +43,8 @@ host, su.viclub.top,emby
 # 飞跃彩虹
 host, 581658.best,emby
 host, 7777777.buzz,emby
+# 飞跃银河
+host, yhemby.top,emby
 # 叔服
 host, emby3.mcjoker.xyz,emby
 # 卡戎
