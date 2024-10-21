@@ -1,4 +1,4 @@
-# 更新时间2024-10-20
+# 更新时间2024-10-21
 
 # 音乐服
 host, music.iuii.org,emby
@@ -75,3 +75,5 @@ host-suffix, aliz.work,emby
 host, jsq.mooguu.top,emby
 # AlphaTV海外服
 host, oversea.alphatvapp.top,emby
+# 非越
+host-suffix, sfcj.org,emby
