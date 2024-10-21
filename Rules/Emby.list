@@ -1,4 +1,4 @@
-# 更新时间2024-10-21
+# 更新时间2024-10-22
 
 # 音乐服
 host, music.iuii.org,emby
@@ -60,8 +60,7 @@ host, dl.carryz.net,emby
 # Nanflix
 host, nanflix.net,emby
 # AWA影视
-host, tv.811861.xyz,emby
-ip-cidr, 38.58.181.218/32,emby
+host, emby.awatv.de,emby
 #lily
 host, emby.lilyya.xyz,emby
 host, cdnemby.lilyya.xyz,emby
