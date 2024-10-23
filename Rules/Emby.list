@@ -1,4 +1,4 @@
-# 更新时间2024-10-22
+# 更新时间2024-10-23
 
 # 音乐服
 host, music.iuii.org,emby
@@ -76,3 +76,5 @@ host, jsq.mooguu.top,emby
 host, oversea.alphatvapp.top,emby
 # 非越
 host-suffix, sfcj.org,emby
+# Levilde Luminia
+host, eggtartemby.itsmyduty.top,emby
