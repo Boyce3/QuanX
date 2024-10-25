@@ -57,11 +57,11 @@ host, cc.coemn.com,emby
 ip-cidr, 193.123.252.106/32,emby
 host, cc.embycc.link,emby
 host, dl.carryz.net,emby
-# Nanflix
+# 天南
 host, nanflix.net,emby
 # AWA影视
 host, emby.awatv.de,emby
-#lily
+# lily
 host-suffix, lilyya.xyz,emby
 # 西瓜
 host-suffix, 1024.name,emby
