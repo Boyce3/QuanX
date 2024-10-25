@@ -70,7 +70,7 @@ host-suffix, aliz.work,emby
 # 见手青
 host, jsq.mooguu.top,emby
 # AlphaTV海外服
-host, oversea.alphatvapp.top,emby
+host-suffix, alphatvapp.top,emby
 # 非越
 host-suffix, sfcj.org,emby
 # Levilde Luminia
