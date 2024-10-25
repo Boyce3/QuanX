@@ -1,4 +1,4 @@
-# 更新时间2024-10-23
+# 更新时间2024-10-25
 
 # 音乐服
 host, music.iuii.org,emby
@@ -62,10 +62,7 @@ host, nanflix.net,emby
 # AWA影视
 host, emby.awatv.de,emby
 #lily
-host, emby.lilyya.xyz,emby
-host, cdnemby.lilyya.xyz,emby
-host, cfemby.lilyya.xyz,emby
-host, embyhk.lilyya.xyz,emby
+host-suffix, lilyya.xyz,emby
 # 西瓜
 host-suffix, 1024.name,emby
 # hka
