@@ -33,11 +33,7 @@ host, cf.imetyou.top,emby
 host-suffix, apopcloud.live,emby
 host-suffix, 209966.xyz,emby
 # 牢大的野兽餐厅
-host, emby-micax-ca-v2.mius.uk,emby
-host, emby-mica-us-v1.mius.uk,emby
-host, sadsafsfsafsadas.mius.uk,emby
-host, emby-mica-hk-v4.mius.uk,emby
-host, emby-mica-yxvm-hk-v4.mius.uk,emby
+host-suffix, mius.uk,emby
 # 大V影院
 host, su.viclub.top,emby
 # 飞跃彩虹
