@@ -14,7 +14,6 @@ host-suffix, term.wtf,emby
 host, embyplus.org,emby
 # PiliPili
 host, pilipili.club,emby
-host, stream_pilipili.misakaf.org,emby
 # NMEmby
 host, film.hovervan.org,emby
 # nyamedia
