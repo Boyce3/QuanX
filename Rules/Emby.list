@@ -26,7 +26,7 @@ host, free.emby.eu.org,emby
 # paul_电报服
 host, cf.imetyou.top,emby
 # Apop
-host, emby,apopcloud.live,emby
+host, emby.apopcloud.live,emby
 # 牢大的野兽餐厅
 host-suffix, mius.uk,emby
 # 大V影院
