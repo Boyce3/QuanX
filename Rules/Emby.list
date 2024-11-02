@@ -25,9 +25,8 @@ host, 789.123456.al,emby
 host, free.emby.eu.org,emby
 # paul_电报服
 host, cf.imetyou.top,emby
-# Apop公益服
-host-suffix, apopcloud.live,emby
-host-suffix, 209966.xyz,emby
+# Apop
+host, emby,apopcloud.live,emby
 # 牢大的野兽餐厅
 host-suffix, mius.uk,emby
 # 大V影院
