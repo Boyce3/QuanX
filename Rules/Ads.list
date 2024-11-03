@@ -1,20 +1,20 @@
-# 2024-08-28
+# 2024-10-03
 
 # ======= B ======= #
 # 哔哩哔哩
-host, upos-sz-staticcos.bilivideo.com, REJECT
+host, upos-sz-staticcos.bilivideo.com, reject
 
 # ======= G ======= #
-host-suffix, beizi.biz, REJECT
+host-suffix, beizi.biz, reject
 
 # ======= W ======= #
 # 微信公众号
-host-suffix, wxs.qq.com, REJECT
+host-suffix, wxs.qq.com, reject
 
 # ======= X ======= #
 # 小红书
-host, fe-static.xhscdn.com, REJECT
+host, fe-static.xhscdn.com, reject
 
 # ======= X ======= #
 # 作业精灵
-host-suffix, dsp-x.jd.com, REJECT
+host-suffix, dsp-x.jd.com, reject
