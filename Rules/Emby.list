@@ -1,4 +1,4 @@
-# 更新时间2024-11-09
+# 更新时间2024-11-13
 
 # 音乐服
 host, music.iuii.org,emby
@@ -30,7 +30,7 @@ host, emby.apopcloud.live,emby
 # 牢大的野兽餐厅
 host-suffix, mius.uk,emby
 # 大V影院
-host, su.viclub.top,emby
+host-suffix, viclub.top,emby
 # 飞跃彩虹
 host, 581658.best,emby
 host, 7777777.buzz,emby
