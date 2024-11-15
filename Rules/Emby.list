@@ -1,4 +1,4 @@
-# 更新时间2024-11-13
+# 更新时间2024-11-15
 
 # 音乐服
 host, music.iuii.org,emby
@@ -61,6 +61,7 @@ host-suffix, aliz.work,emby
 host, jsq.mooguu.top,emby
 # AlphaTV海外服
 host-suffix, alphatvapp.top,emby
+ip-cidr, 104.243.41.35/32,emby
 # 非越
 host-suffix, sfcj.org,emby
 # Levilde
