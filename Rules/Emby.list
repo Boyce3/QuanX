@@ -1,4 +1,4 @@
-# 更新时间2024-11-15
+# 更新时间2024-11-16
 
 # 音乐服
 host, music.iuii.org,emby
@@ -55,10 +55,10 @@ host, emby.awatv.de,emby
 host-suffix, lilyya.xyz,emby
 # 西瓜
 host-suffix, 1024.name,emby
-# hka
+# HKA
 host-suffix, aliz.work,emby
 # 见手青
-host, jsq.mooguu.top,emby
+host, jsq.mooguu.xyz,emby
 # AlphaTV海外服
 host-suffix, alphatvapp.top,emby
 ip-cidr, 104.243.41.35/32,emby
