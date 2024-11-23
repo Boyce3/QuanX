@@ -1,8 +1,5 @@
-# 更新时间2024-11-17
+# 更新时间2024-11-23
 
-# 音乐服
-host, music.iuii.org,emby
-host-suffix, 123456.buzz,emby
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
 # 卷毛鼠
@@ -68,3 +65,7 @@ host-suffix, sfcj.org,emby
 host, eggtartemby.itsmyduty.top,emby
 # 探花TV
 host-suffix, tanhuatv.site,emby
+# 音乐服
+host, music.iuii.org,emby
+host-suffix, 123456.buzz,emby
+host, music.mefun.org,emby
