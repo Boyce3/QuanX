@@ -1,4 +1,4 @@
-# 2024-10-03
+# 2024-12-05
 
 # ======= B ======= #
 # 哔哩哔哩
@@ -17,4 +17,5 @@ host, fe-static.xhscdn.com, reject
 
 # ======= X ======= #
 # 作业精灵
+host-suffix, beizi.biz, reject
 host-suffix, dsp-x.jd.com, reject
