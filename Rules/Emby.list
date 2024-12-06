@@ -1,4 +1,4 @@
-# 更新时间2024-12-04
+# 更新时间2024-12-06
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -9,6 +9,7 @@ host-suffix, emby.wtf,emby
 host-suffix, term.wtf,emby
 # 纸片人小站
 host-suffix, embyplus.org,emby
+host, gd.9521732.xyz,emby
 # PiliPili
 host, pilipili.club,emby
 host, pilipili.misakaf.org,emby
