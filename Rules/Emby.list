@@ -1,4 +1,4 @@
-# Update = 2024-12-12
+# Update = 2024-12-15
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -66,7 +66,9 @@ host, eggtartemby.itsmyduty.top,emby
 # 探花TV
 host-suffix, tanhuatv.site,emby
 # 星云
-host-suffix, nebula-media.org, emby
+host-suffix, nebula-media.org,emby
+# 起点站
+host, tdck.fun,emby
 
 # 音乐服
 host, music.iuii.org,emby
