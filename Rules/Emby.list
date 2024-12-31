@@ -1,4 +1,4 @@
-# Update = 2024-12-29
+# Update = 2024-12-31
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -46,7 +46,7 @@ host, cc.coemn.com,emby
 host, cc.embycc.link,emby
 host, dl.carryz.net,emby
 # 天南
-host, nanflix.net,emby
+host, us.nanflix.net,emby
 # AWA影视
 host, emby.awatv.de,emby
 # lily
