@@ -1,7 +1,9 @@
 let body = JSON.parse($response.body);
 
-// 强制返回分组为 A
-body.group = "A";
-body.config.showNewFeature = true; // 确保功能开关为 A 组配置
+// 强制修改分组为 B
+body.group = "B";
+
+// 如果有特定配置，确保按 B 组逻辑返回
+body.config.showNewFeature = false; // 示例：关闭 A 组的功能
 
 $done({ body: JSON.stringify(body) });
