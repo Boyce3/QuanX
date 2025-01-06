@@ -64,6 +64,7 @@ host, abc.auroramedia.vip,emby
 host, iempy.vime50.com,emby
 # 探花TV
 host-suffix, tanhuatv.site,emby
+ip-cidr, 192.99.35.111/32,emby
 
 # 音乐服
 host, music.iuii.org,emby
