@@ -67,7 +67,7 @@ host-suffix, tanhuatv.site,emby
 # 终点站
 ip-cidr, 192.99.35.111/32,emby
 host, tdck.fun,emby
-host-suffix, pppp.us.kg,emby
+host-keyword, pppp.us.kg,emby
 
 # 音乐服
 host, music.iuii.org,emby
