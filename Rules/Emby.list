@@ -36,7 +36,7 @@ host, 581658.best,emby
 host, 7777777.buzz,emby
 # AWA影视
 host-suffix, awatv.de,emby
-host,  movice.emby.blog,emby
+host, movice.emby.blog,emby
 # 见手青
 host, jsq.mooguu.xyz,emby
 # HKA
