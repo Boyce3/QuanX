@@ -1,4 +1,4 @@
-# Update = 2025-01-06
+# Update = 2025-01-07
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -34,9 +34,6 @@ host, us.nanflix.net,emby
 # 飞跃彩虹
 host, 581658.best,emby
 host, 7777777.buzz,emby
-# AWA影视
-host-suffix, awatv.de,emby
-host, movice.emby.blog,emby
 # 见手青
 host, jsq.mooguu.xyz,emby
 # HKA
