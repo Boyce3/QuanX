@@ -1,4 +1,4 @@
-# Update = 2025-01-07
+# Update = 2025-01-08
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -29,10 +29,11 @@ host-suffix, lilyya.xyz,emby
 host-suffix, alphatvapp.top,emby
 # 非越
 host-suffix, sfcj.org,emby
-# 天南
+# NanflixUSA
 host, us.nanflix.net,emby
 # 飞跃彩虹
 host-suffix, 7777777.buzz,emby
+ip-cidr, 193.122.114.13/32,emby
 host-suffix, 581658.best,emby
 # 见手青
 host, jsq.mooguu.xyz,emby
@@ -61,7 +62,7 @@ host, abc.auroramedia.vip,emby
 host, iempy.vime50.com,emby
 # 探花TV
 host-suffix, tanhuatv.site,emby
-# 终点站
+# 起点站
 ip-cidr, 192.99.35.111/32,emby
 host, tdck.fun,emby
 host-keyword, pppp.us.kg,emby
