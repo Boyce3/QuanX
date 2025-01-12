@@ -1,7 +1,7 @@
-# Update = 2025-01-08
+# Update = 2025-01-12
 
 # 琴鸟
-host, cdn.lyrebirdemby.com,emby
+host-suffix, lyrebirdemby.com,emby
 # 卷毛鼠
 host-suffix, jmsuper.com,emby
 # 终点站
