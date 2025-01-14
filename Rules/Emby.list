@@ -1,4 +1,4 @@
-# Update = 2025-01-12
+# Update = 2025-01-14
 
 # 琴鸟
 host-suffix, lyrebirdemby.com,emby
@@ -63,9 +63,7 @@ host, iempy.vime50.com,emby
 # 探花TV
 host-suffix, tanhuatv.site,emby
 # 起点站
-ip-cidr, 192.99.35.111/32,emby
-host, tdck.fun,emby
-host-keyword, pppp.us.kg,emby
+host-suffix, vfing.de,emby
 
 # 音乐服
 host, music.iuii.org,emby
