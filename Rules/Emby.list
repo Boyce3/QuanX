@@ -1,4 +1,4 @@
-# Update = 2025-01-14
+# Update = 2025-01-17
 
 # 琴鸟
 host-suffix, lyrebirdemby.com,emby
@@ -64,6 +64,9 @@ host, iempy.vime50.com,emby
 host-suffix, tanhuatv.site,emby
 # 起点站
 host-suffix, vfing.de,emby
+# July
+host, alist7.eu.org,emby
+host-suffix, sharepoint.com,emby
 
 # 音乐服
 host, music.iuii.org,emby
