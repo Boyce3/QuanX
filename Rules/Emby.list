@@ -58,15 +58,14 @@ host, eggtartemby.itsmyduty.top,emby
 host-suffix, nebula-media.org,emby
 # 极光
 host, abc.auroramedia.vip,emby
-# KISSME
-host, iempy.vime50.com,emby
-# 探花TV
-host-suffix, tanhuatv.site,emby
 # 起点站
 host-suffix, vfing.de,emby
+host, favoritewife.com,emby
 # July
 host, alist7.eu.org,emby
 host-suffix, sharepoint.com,emby
+# 探花TV
+host-suffix, tanhuatv.site,emby
 
 # 音乐服
 host, music.iuii.org,emby
