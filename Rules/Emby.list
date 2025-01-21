@@ -1,4 +1,4 @@
-# Update = 2025-01-17
+# Update = 2025-01-21
 
 # 琴鸟
 host-suffix, lyrebirdemby.com,emby
@@ -9,7 +9,7 @@ host-suffix, emby.wtf,emby
 host-suffix, term.wtf,emby
 # 纸片人小站
 host-suffix, embyplus.org,emby
-host, gd.9521732.xyz,emby
+host, streamer.pilipiliultra.com,emby
 # PiliPili
 host, pilipili.club,emby
 host, pilipili.misakaf.org,emby
