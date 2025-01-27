@@ -1,4 +1,4 @@
-# Update = 2025-01-26
+# Update = 2025-01-27
 
 # 琴鸟
 host-suffix, lyrebirdemby.com,emby
@@ -76,7 +76,8 @@ host, july-us.vfing.de,emby
 host, a.mobaiemby.site,emby
 host, b.mobaiemby.site,emby
 host, fast.vfing.de,emby
-
+# Loon服
+host, emby.ld2j.top,emby
 # 探花TV
 host-suffix, tanhuatv.site,emby
 
