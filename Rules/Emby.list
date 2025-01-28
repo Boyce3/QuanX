@@ -73,9 +73,9 @@ host, july-hk.vfing.de,emby
 host, july-sg.vfing.de,emby
 host, july-us.vfing.de,emby
 # 墨云阁
-host, a.mobaiemby.site,emby
-host, b.mobaiemby.site,emby
+host-suffix, mobaiemby.site,emby
 host, fast.vfing.de,emby
+host, emby-myg-de.vfing.de,emby
 # Loon服
 host, emby.ld2j.top,emby
 # 惊蛰
