@@ -78,6 +78,9 @@ host, b.mobaiemby.site,emby
 host, fast.vfing.de,emby
 # Loon服
 host, emby.ld2j.top,emby
+# 惊蛰
+host, stream2.jingzhe.pro,emby
+host, emby.jingzhe.pro,emby
 # 探花TV
 host-suffix, tanhuatv.site,emby
 
