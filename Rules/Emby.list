@@ -1,4 +1,4 @@
-# Update = 2025-01-27
+# Update = 2025-01-28
 
 # 琴鸟
 host-suffix, lyrebirdemby.com,emby
@@ -59,7 +59,7 @@ host, eggtartemby.itsmyduty.top,emby
 # 星云
 host-suffix, nebula-media.org,emby
 # 极光
-host, abc.auroramedia.vip,emby
+host, auroramedia.vip,emby
 # 起点站
 host, favoritewife.com,emby
 host, qdz-de.vfing.de,emby
