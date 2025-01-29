@@ -108,4 +108,4 @@ host, tanhuatv.site,emby
 host, music.iuii.org,emby
 host-suffix, 123456.buzz,emby
 host, music.mefun.org,emby
-host-suffix, ,makifx.com,emby
+host-suffix, makifx.com,emby
