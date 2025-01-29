@@ -1,111 +1,111 @@
 # 更新时间 2025-01-29
 
 # 琴鸟
-DOMAIN,cdn.lyrebirdemby.com
-DOMAIN,inside.lyrebirdemby.com
+host, cdn.lyrebirdemby.com,emby
+host, inside.lyrebirdemby.com,emby
 IP-CIDR,188.172.228.65/32
 # 卷毛鼠
-DOMAIN-SUFFIX,jmsuper.com
+host-suffix, jmsuper.com,emby
 # 终点站
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub1.term.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub2.term.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN,pub3.term.wtf
+host, pub1.emby.wtf,emby
+host, pub1.term.wtf,emby
+host, pub2.emby.wtf,emby
+host, pub2.term.wtf,emby
+host, pub3.emby.wtf,emby
+host, pub3.term.wtf,emby
 # 纸片人小站
-DOMAIN,embyplus.org
-DOMAIN,emby4.029902.xyz
+host, embyplus.org,emby
+host, emby4.029902.xyz,emby
 # PiliPili
-DOMAIN,pilipili.club
-DOMAIN,streamer.pilipiliultra.com
+host, pilipili.club,emby
+host, streamer.pilipiliultra.com,emby
 # 二刺螈
-DOMAIN,media.nijigem.by
+host, media.nijigem.by,emby
 # nyamedia
-DOMAIN,emby.bangumi.ca
+host, emby.bangumi.ca,emby
 # 电报服
-DOMAIN,cf.imetyou.top
+host, cf.imetyou.top,emby
 # 牢大
-DOMAIN,emby-mica-us-v1.mius.uk
-DOMAIN,emby-micax-ca-v2.mius.uk
-DOMAIN,emby-mica-hk-v4.mius.uk
-DOMAIN,emby-mica-yxvm-hk-v4.mius.uk
-DOMAIN,emby-mica-hk3-v4.mius.uk
+host, emby-mica-us-v1.mius.uk,emby
+host, emby-micax-ca-v2.mius.uk,emby
+host, emby-mica-hk-v4.mius.uk,emby
+host, emby-mica-yxvm-hk-v4.mius.uk,emby
+host, emby-mica-hk3-v4.mius.uk,emby
 # 飞跃银河
-DOMAIN,yhemby.top
+host, yhemby.top,emby
 # 卡戎
-DOMAIN,play.charontv.com
+host, play.charontv.com,emby
 # 莉莉服
-DOMAIN,cfemby.lilyya.xyz
-DOMAIN,cemby.lilyya.xyz
-DOMAIN,usemby.lilyya.xyz
+host, cfemby.lilyya.xyz,emby
+host, cemby.lilyya.xyz,emby
+host, usemby.lilyya.xyz,emby
 # AlphaTV
-DOMAIN-SUFFIX,alphatvapp.top
+host-suffix, alphatvapp.top,emby
 # 非越
-DOMAIN,z.sfcj.org
-DOMAIN,jg.sfcj.org
-DOMAIN,ju.sfcj.org
-DOMAIN,jg6.sfcj.org
-DOMAIN,v6.sfcj.org
-DOMAIN,cf.sfcj.org
+host, z.sfcj.org,emby
+host, jg.sfcj.org,emby
+host, ju.sfcj.org,emby
+host, jg6.sfcj.org,emby
+host, v6.sfcj.org,emby
+host, cf.sfcj.org,emby
 # NanflixUSA
-DOMAIN,us.nanflix.net
+host, us.nanflix.net,emby
 # 飞跃彩虹
 IP-CIDR,193.122.114.13/32
-DOMAIN,7777777.buzz
-DOMAIN,581658.best
+host, 7777777.buzz,emby
+host, 581658.best,emby
 # 见手青
-DOMAIN,jsq.mooguu.xyz
+host, jsq.mooguu.xyz,emby
 # HKA
-DOMAIN-SUFFIX,aliz.work
+host-suffix, aliz.work,emby
 # 西瓜
-DOMAIN,1024.name
-DOMAIN,spare.1024.name
+host, 1024.name,emby
+host, spare.1024.name,emby
 # 叔服
-DOMAIN,emby3.mcjoker.xyz
+host, emby3.mcjoker.xyz,emby
 # 大V影院
-DOMAIN,su.viclub.top
-DOMAIN,sj.viclub.top
-DOMAIN,vi-jp.pppp.us.kg
-DOMAIN,vi-hk.pppp.us.kg
-DOMAIN,vi-sg.pppp.us.kg
+host, su.viclub.top,emby
+host, sj.viclub.top,emby
+host, vi-jp.pppp.us.kg,emby
+host, vi-hk.pppp.us.kg,emby
+host, vi-sg.pppp.us.kg,emby
 # CC
-DOMAIN,cc.coemn.com
-DOMAIN,cc.embycc.link
-DOMAIN,dl.carryz.net
+host, cc.coemn.com,emby
+host, cc.embycc.link,emby
+host, dl.carryz.net,emby
 # StarCat
-DOMAIN,flare.catlinks.co.uk
-DOMAIN,ehsifohesiohgesfhrioe3.puddingcat.de
+host, flare.catlinks.co.uk,emby
+host, ehsifohesiohgesfhrioe3.puddingcat.de,emby
 # Levilde
-DOMAIN,eggtartemby.itsmyduty.top
+host, eggtartemby.itsmyduty.top,emby
 # 星云
-DOMAIN,emby.nebula-media.org
+host, emby.nebula-media.org,emby
 # 极光
-DOMAIN,auroramedia.vip
+host, auroramedia.vip,emby
 # 起点站
-DOMAIN,favoritewife.com
-DOMAIN,qdz-de.vfing.de
-DOMAIN,qdz-hk-0.vfing.de
-DOMAIN,qdz-hk-1.vfing.de
+host, favoritewife.com,emby
+host, qdz-de.vfing.de,emby
+host, qdz-hk-0.vfing.de,emby
+host, qdz-hk-1.vfing.de,emby
 # July
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN,alist7.eu.org
-DOMAIN,july.vfing.de
-DOMAIN,july-hk.vfing.de
-DOMAIN,july-sg.vfing.de
-DOMAIN,july-us.vfing.de
+host-suffix, sharepoint.com,emby
+host, alist7.eu.org,emby
+host, july.vfing.de,emby
+host, july-hk.vfing.de,emby
+host, july-sg.vfing.de,emby
+host, july-us.vfing.de,emby
 # 墨云阁
-DOMAIN-SUFFIX,mobaiemby.site
-DOMAIN,fast.vfing.de
-DOMAIN,emby-myg-de.vfing.de
+host-suffix, mobaiemby.site,emby
+host, fast.vfing.de,emby
+host, emby-myg-de.vfing.de,emby
 # 惊蛰
-DOMAIN,stream2.jingzhe.pro
-DOMAIN,emby.jingzhe.pro
+host, stream2.jingzhe.pro,emby
+host, emby.jingzhe.pro,emby
 # 探花TV
-DOMAIN,tanhuatv.site
+host, tanhuatv.site,emby
 
 # 音乐服
-DOMAIN,music.iuii.org
-DOMAIN-SUFFIX,123456.buzz
-DOMAIN,music.mefun.org
-DOMAIN-SUFFIX,makifx.com
+host, music.iuii.org,emby
+host-suffix, 123456.buzz,emby
+host, music.mefun.org,emby
+host-suffix, ,makifx.com,emby
