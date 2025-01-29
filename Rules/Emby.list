@@ -1,91 +1,111 @@
-# Update = 2025-01-28
+# 更新时间 2025-01-29
 
 # 琴鸟
-host-suffix, lyrebirdemby.com,emby
+DOMAIN,cdn.lyrebirdemby.com
+DOMAIN,inside.lyrebirdemby.com
+IP-CIDR,188.172.228.65/32
 # 卷毛鼠
-host-suffix, jmsuper.com,emby
+DOMAIN-SUFFIX,jmsuper.com
 # 终点站
-host-suffix, emby.wtf,emby
-host-suffix, term.wtf,emby
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub1.term.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub2.term.wtf
+DOMAIN,pub3.emby.wtf
+DOMAIN,pub3.term.wtf
 # 纸片人小站
-host-suffix, embyplus.org,emby
-host, emby4.029902.xyz,emby
+DOMAIN,embyplus.org
+DOMAIN,emby4.029902.xyz
 # PiliPili
-host, pilipili.club,emby
-host, streamer.pilipiliultra.com,emby
+DOMAIN,pilipili.club
+DOMAIN,streamer.pilipiliultra.com
 # 二刺螈
-host, media.nijigem.by,emby
+DOMAIN,media.nijigem.by
 # nyamedia
-host, emby.bangumi.ca,emby
+DOMAIN,emby.bangumi.ca
 # 电报服
-host, cf.imetyou.top,emby
+DOMAIN,cf.imetyou.top
 # 牢大
-host-suffix, mius.uk,emby
+DOMAIN,emby-mica-us-v1.mius.uk
+DOMAIN,emby-micax-ca-v2.mius.uk
+DOMAIN,emby-mica-hk-v4.mius.uk
+DOMAIN,emby-mica-yxvm-hk-v4.mius.uk
+DOMAIN,emby-mica-hk3-v4.mius.uk
 # 飞跃银河
-host, yhemby.top,emby
+DOMAIN,yhemby.top
 # 卡戎
-host, play.charontv.com,emby
-# lily
-host-suffix, lilyya.xyz,emby
+DOMAIN,play.charontv.com
+# 莉莉服
+DOMAIN,cfemby.lilyya.xyz
+DOMAIN,cemby.lilyya.xyz
+DOMAIN,usemby.lilyya.xyz
 # AlphaTV
-host-suffix, alphatvapp.top,emby
+DOMAIN-SUFFIX,alphatvapp.top
 # 非越
-host-suffix, sfcj.org,emby
+DOMAIN,z.sfcj.org
+DOMAIN,jg.sfcj.org
+DOMAIN,ju.sfcj.org
+DOMAIN,jg6.sfcj.org
+DOMAIN,v6.sfcj.org
+DOMAIN,cf.sfcj.org
 # NanflixUSA
-host, us.nanflix.net,emby
+DOMAIN,us.nanflix.net
 # 飞跃彩虹
-host-suffix, 7777777.buzz,emby
-ip-cidr, 193.122.114.13/32,emby
-host-suffix, 581658.best,emby
+IP-CIDR,193.122.114.13/32
+DOMAIN,7777777.buzz
+DOMAIN,581658.best
 # 见手青
-host, jsq.mooguu.xyz,emby
+DOMAIN,jsq.mooguu.xyz
 # HKA
-host-suffix, aliz.work,emby
+DOMAIN-SUFFIX,aliz.work
 # 西瓜
-host-suffix, 1024.name,emby
+DOMAIN,1024.name
+DOMAIN,spare.1024.name
 # 叔服
-host-suffix, mcjoker.xyz,emby
+DOMAIN,emby3.mcjoker.xyz
 # 大V影院
-host-suffix, viclub.top,emby
+DOMAIN,su.viclub.top
+DOMAIN,sj.viclub.top
+DOMAIN,vi-jp.pppp.us.kg
+DOMAIN,vi-hk.pppp.us.kg
+DOMAIN,vi-sg.pppp.us.kg
 # CC
-host, cc.coemn.com,emby
-host, cc.embycc.link,emby
-host, dl.carryz.net,emby
+DOMAIN,cc.coemn.com
+DOMAIN,cc.embycc.link
+DOMAIN,dl.carryz.net
 # StarCat
-host-suffix, catlinks.co.uk,emby
-host, ehsifohesiohgesfhrioe3.puddingcat.de,emby
+DOMAIN,flare.catlinks.co.uk
+DOMAIN,ehsifohesiohgesfhrioe3.puddingcat.de
 # Levilde
-host, eggtartemby.itsmyduty.top,emby
+DOMAIN,eggtartemby.itsmyduty.top
 # 星云
-host-suffix, nebula-media.org,emby
+DOMAIN,emby.nebula-media.org
 # 极光
-host, auroramedia.vip,emby
+DOMAIN,auroramedia.vip
 # 起点站
-host, favoritewife.com,emby
-host, qdz-de.vfing.de,emby
-host, qdz-hk-0.vfing.de,emby
-host, qdz-hk-1.vfing.de,emby
+DOMAIN,favoritewife.com
+DOMAIN,qdz-de.vfing.de
+DOMAIN,qdz-hk-0.vfing.de
+DOMAIN,qdz-hk-1.vfing.de
 # July
-host-suffix, sharepoint.com,emby
-host, alist7.eu.org,emby
-host, july.vfing.de,emby
-host, july-hk.vfing.de,emby
-host, july-sg.vfing.de,emby
-host, july-us.vfing.de,emby
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN,alist7.eu.org
+DOMAIN,july.vfing.de
+DOMAIN,july-hk.vfing.de
+DOMAIN,july-sg.vfing.de
+DOMAIN,july-us.vfing.de
 # 墨云阁
-host-suffix, mobaiemby.site,emby
-host, fast.vfing.de,emby
-host, emby-myg-de.vfing.de,emby
-# Loon服
-host, emby.ld2j.top,emby
+DOMAIN-SUFFIX,mobaiemby.site
+DOMAIN,fast.vfing.de
+DOMAIN,emby-myg-de.vfing.de
 # 惊蛰
-host, stream2.jingzhe.pro,emby
-host, emby.jingzhe.pro,emby
+DOMAIN,stream2.jingzhe.pro
+DOMAIN,emby.jingzhe.pro
 # 探花TV
-host-suffix, tanhuatv.site,emby
+DOMAIN,tanhuatv.site
 
 # 音乐服
-host, music.iuii.org,emby
-host-suffix, 123456.buzz,emby
-host, music.mefun.org,emby
-host-suffix, makifx.com,emby
+DOMAIN,music.iuii.org
+DOMAIN-SUFFIX,123456.buzz
+DOMAIN,music.mefun.org
+DOMAIN-SUFFIX,makifx.com
