@@ -3,7 +3,7 @@
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
 host, inside.lyrebirdemby.com,emby
-IP-CIDR, 188.172.228.65/32,emby
+ip-cidr, 188.172.228.65/32,emby
 # 卷毛鼠
 host-suffix, jmsuper.com,emby
 # 终点站
