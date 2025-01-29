@@ -50,8 +50,8 @@ host, v6.sfcj.org,emby
 host, cf.sfcj.org,emby
 # NanflixUSA
 host, us.nanflix.net,emby
-# 飞跃彩虹
-IP-CIDR, 193.122.114.13/32,emby
+# 飞跃彩
+ip-cidr, 193.122.114.13/32,emby
 host, 7777777.buzz,emby
 host, 581658.best,emby
 # 见手青
