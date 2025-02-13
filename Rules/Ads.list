@@ -15,7 +15,7 @@ host-suffix, wxs.qq.com, reject
 # 小红书
 host, fe-static.xhscdn.com, reject
 
-# ======= X ======= #
+# ======= Z ======= #
 # 作业精灵
 host-suffix, beizi.biz, reject
 host-suffix, dsp-x.jd.com, reject
