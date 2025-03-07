@@ -49,7 +49,7 @@ host, emby.bangumi.ca,emby
 host, cf.imetyou.top,emby
 # Doubon
 host, onatoshi.114514.quest,emby
-# 飞跃彩
+# 飞跃彩虹
 ip-cidr, 193.122.114.13/32,emby
 host, 7777777.buzz,emby
 host, 581658.best,emby
