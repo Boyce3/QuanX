@@ -1,4 +1,4 @@
-# 更新时间 2025-03-07
+# 更新时间 2025-03-13
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -55,8 +55,6 @@ host, 7777777.buzz,emby
 host, 581658.best,emby
 # 比比
 host, beebi.org,emby
-# 见手青
-host, jsq.mooguu.xyz,emby
 # HKA
 host-suffix, aliz.work,emby
 # 西瓜
