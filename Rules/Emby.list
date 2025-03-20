@@ -1,4 +1,4 @@
-# 更新时间 2025-03-18
+# 更新时间 2025-03-20
 
 # 守候网络
 host, emby.cn2gias.uk,emby
@@ -57,8 +57,6 @@ host, hka-emby3.aliz.work,emby
 ip-cidr, 193.122.114.13/32,emby
 host, 7777777.buzz,emby
 host, 581658.best,emby
-# 比比
-host, beebi.org,emby
 # 西瓜
 host, 1024.name,emby
 host, seoul.1024.name,emby
