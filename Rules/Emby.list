@@ -1,4 +1,4 @@
-# 更新时间 2025-03-20
+# 更新时间 2025-03-25
 
 # 守候网络
 host, emby.cn2gias.uk,emby
@@ -6,6 +6,9 @@ host, emby.cn2gias.uk,emby
 host, cdn.lyrebirdemby.com,emby
 host, inside.lyrebirdemby.com,emby
 ip-cidr, 188.172.228.65/32,emby
+# Plumber
+host, xjp1.nezhasu.com,emby
+host, shouer.910427.xyz,emby
 # 卡戎
 host, play.charontv.com,emby
 # 莉莉服
