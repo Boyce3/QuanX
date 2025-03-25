@@ -81,5 +81,3 @@ host, dl.carryz.net,emby
 host, eggtartemby.itsmyduty.top,emby
 # AlphaTV
 host-suffix, alphatvapp.top,emby
-# 星云
-host, emby.nebula-media.org,emby
