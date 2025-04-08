@@ -59,8 +59,8 @@ host, onatoshi.114514.quest,emby
 # HKA
 host, hka-emby3.aliz.work,emby
 # 飞跃彩虹
-ip-cidr, 193.122.114.13/32,emby
 host, 7777777.buzz,emby
+ip-cidr, 193.122.114.13/32,emby
 host, 581658.best,emby
 # 西瓜
 host, 1024.name,emby
