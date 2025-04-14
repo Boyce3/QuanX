@@ -1,4 +1,4 @@
-# 更新时间 2025-04-08
+# 更新时间 2025-04-14
 
 # 守候网络
 host, emby.cn2gias.uk,emby
@@ -83,3 +83,5 @@ host, dl.carryz.net,emby
 host, eggtartemby.itsmyduty.top,emby
 # 起点站
 host, free.28.al,emby
+# Kiku
+host, emby.ucloudhost.top,emby
