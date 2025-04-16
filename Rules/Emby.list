@@ -11,6 +11,13 @@ host, plumber.nezhasu.com,emby
 host, shouer.910427.xyz,emby
 # Saturday
 host, lite.saturday.video,emby
+# 西瓜
+host, 1024.name,emby
+host, cf.1024.one,emby
+host, seoul.1024.name,emby
+host, sjc.1024.name,emby
+host, daigua.j8.work,emby
+host, mzlpin.1024.one,emby
 # 卡戎
 host, play.charontv.com,emby
 # 莉莉服
@@ -62,11 +69,6 @@ host, hka-emby3.aliz.work,emby
 host, 7777777.buzz,emby
 ip-cidr, 193.122.114.13/32,emby
 host, 581658.best,emby
-# 西瓜
-host, 1024.name,emby
-host, seoul.1024.name,emby
-host, jc.1024.name,emby
-host, daigua.j8.work,emby
 # 叔服
 host, emby3.mcjoker.xyz,emby
 # 大V影院
