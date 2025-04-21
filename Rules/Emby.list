@@ -1,4 +1,4 @@
-# 更新时间 2025-04-20
+# 更新时间 2025-04-21
 
 # 守候网络
 host, emby.cn2gias.uk,emby
@@ -21,10 +21,10 @@ host, mzlpin.1024.one,emby
 # 卡戎
 host, play.charontv.com,emby
 # 莉莉服
-host, cfemby.lilyya.xyz,emby
-host, c.lilyemby.my,emby
-host, u.lilyemby.my,emby
+host, cf.lilyemby.my,emby
+host, hk.lilyemby.my,emby
 host, jp.lilyemby.my,emby
+host, cdn.lilyemby.my,emby
 # NanflixUSA
 host, us.nanflix.net,emby
 # 非越
