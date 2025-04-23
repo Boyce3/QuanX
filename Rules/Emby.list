@@ -22,6 +22,13 @@ host, streamer-cf.pilipiliultra.com,emby
 # 二次元
 host, media.nijigem.by,emby
 
+# nyamedia
+host, emby.bangumi.ca,emby
+# Doubon
+host, onatoshi.114514.quest,emby
+
+# 电报服
+host, cf.imetyou.top,emby
 
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
@@ -60,12 +67,7 @@ host, emby.jingzhe.pro,emby
 
 
 
-# nyamedia
-host, emby.bangumi.ca,emby
-# 电报服
-host, cf.imetyou.top,emby
-# Doubon
-host, onatoshi.114514.quest,emby
+
 # HKA
 host, hka-emby3.aliz.work,emby
 # Kiku
