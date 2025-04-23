@@ -21,15 +21,12 @@ host, emby.pilipiliultra.com,emby
 host, streamer-cf.pilipiliultra.com,emby
 # 二次元
 host, media.nijigem.by,emby
-
 # nyamedia
 host, emby.bangumi.ca,emby
 # Doubon
 host, onatoshi.114514.quest,emby
-
 # 电报服
 host, cf.imetyou.top,emby
-
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
 host, inside.lyrebirdemby.com,emby
@@ -48,13 +45,13 @@ host, daigua.j8.work,emby
 host, mzlpin.1024.one,emby
 # 卡戎
 host, play.charontv.com,emby
+# 天南
+host, us.nanflix.net,emby
 # 莉莉服
 host, cf.lilyemby.my,emby
 host, hk.lilyemby.my,emby
 host, jp.lilyemby.my,emby
 host, cdn.lilyemby.my,emby
-# 天南
-host, us.nanflix.net,emby
 # 非越
 host, z.sfcj.org,emby
 host, v6.sfcj.org,emby
@@ -64,20 +61,14 @@ host, auroramedia.vip,emby
 # 惊蛰
 host, stream2.jingzhe.pro,emby
 host, emby.jingzhe.pro,emby
-
-
-
-
-# HKA
-host, hka-emby3.aliz.work,emby
 # Kiku
 host, emby.ucloudhost.top,emby
+# HKA
+host, hka-emby3.aliz.work,emby
 # 飞跃彩虹
 host, 7777777.buzz,emby
 ip-cidr, 193.122.114.13/32,emby
 host, 581658.best,emby
-# 叔服
-host, emby3.mcjoker.xyz,emby
 # 大V影院
 host, su.viclub.top,emby
 host, sj.viclub.top,emby
@@ -85,6 +76,8 @@ host, vi-hk-1.vfing.de,emby
 host, vi-hk-2.vfing.de,emby
 host, vi-sg.vfing.de,emby
 host, vi-jp.vfing.de,emby
+# 叔服
+host, emby3.mcjoker.xyz,emby
 # CC
 host, cc.coemn.com,emby
 host, cc.embycc.link,emby
