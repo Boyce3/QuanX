@@ -1,7 +1,16 @@
-# 更新时间 2025-04-23
+# 更新时间 2025-04-24
 
 # 守候网络
 host, emby.cn2gias.uk,emby
+# 终点站
+host, pub1.emby.wtf,emby
+host, pub1.term.wtf,emby
+host, pub2.emby.wtf,emby
+host, pub2.term.wtf,emby
+host, pub3.emby.wtf,emby
+host, pub3.term.wtf,emby
+# 卷毛鼠
+host-suffix, jmsuper.com,emby
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
 host, inside.lyrebirdemby.com,emby
@@ -36,15 +45,6 @@ host, auroramedia.vip,emby
 # 惊蛰
 host, stream2.jingzhe.pro,emby
 host, emby.jingzhe.pro,emby
-# 卷毛鼠
-host-suffix, jmsuper.com,emby
-# 终点站
-host, pub1.emby.wtf,emby
-host, pub1.term.wtf,emby
-host, pub2.emby.wtf,emby
-host, pub2.term.wtf,emby
-host, pub3.emby.wtf,emby
-host, pub3.term.wtf,emby
 # 纸片人小站
 host, embyplus.org,emby
 host, emby4.029902.xyz,emby
