@@ -11,6 +11,18 @@ host, pub3.emby.wtf,emby
 host, pub3.term.wtf,emby
 # 卷毛鼠
 host-suffix, jmsuper.com,emby
+# 纸片人小站
+host, embyplus.org,emby
+host, emby4.029902.xyz,emby
+host, gd.9521732.xyz,emby
+# PiliPili
+host, emby-direct.pilipiliultra.com,emby
+host, emby.pilipiliultra.com,emby
+host, streamer-cf.pilipiliultra.com,emby
+# 二次元
+host, media.nijigem.by,emby
+
+
 # 琴鸟
 host, cdn.lyrebirdemby.com,emby
 host, inside.lyrebirdemby.com,emby
@@ -45,16 +57,9 @@ host, auroramedia.vip,emby
 # 惊蛰
 host, stream2.jingzhe.pro,emby
 host, emby.jingzhe.pro,emby
-# 纸片人小站
-host, embyplus.org,emby
-host, emby4.029902.xyz,emby
-host, gd.9521732.xyz,emby
-# PiliPili
-host, emby-direct.pilipiliultra.com,emby
-host, emby.pilipiliultra.com,emby
-host, streamer-cf.pilipiliultra.com,emby
-# 二次元
-host, media.nijigem.by,emby
+
+
+
 # nyamedia
 host, emby.bangumi.ca,emby
 # 电报服
