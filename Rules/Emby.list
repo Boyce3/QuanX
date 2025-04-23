@@ -31,8 +31,6 @@ host, us.nanflix.net,emby
 host, z.sfcj.org,emby
 host, v6.sfcj.org,emby
 host, cf.sfcj.org,emby
-# Kiku
-host, emby.ucloudhost.top,emby
 # 极光
 host, auroramedia.vip,emby
 # 惊蛰
@@ -65,6 +63,8 @@ host, cf.imetyou.top,emby
 host, onatoshi.114514.quest,emby
 # HKA
 host, hka-emby3.aliz.work,emby
+# Kiku
+host, emby.ucloudhost.top,emby
 # 飞跃彩虹
 host, 7777777.buzz,emby
 ip-cidr, 193.122.114.13/32,emby
