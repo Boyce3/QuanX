@@ -1,4 +1,4 @@
-# 更新时间 2025-04-21
+# 更新时间 2025-04-23
 
 # 守候网络
 host, emby.cn2gias.uk,emby
@@ -31,6 +31,8 @@ host, us.nanflix.net,emby
 host, z.sfcj.org,emby
 host, v6.sfcj.org,emby
 host, cf.sfcj.org,emby
+# Kiku
+host, emby.ucloudhost.top,emby
 # 极光
 host, auroramedia.vip,emby
 # 惊蛰
@@ -85,7 +87,5 @@ host, eggtartemby.itsmyduty.top,emby
 # 起点站
 host, free.28.al,emby
 host, qdzfreecdn.b-cdn.net,emby
-# Kiku
-host, emby.ucloudhost.top,emby
 # 叶子
 host, gm.yezi.my,emby
