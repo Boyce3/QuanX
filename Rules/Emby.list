@@ -18,6 +18,10 @@ host, gd.9521732.xyz,emby
 # PiliPili
 host, emby-direct.pilipiliultra.com,emby
 host, emby.pilipiliultra.com,emby
+host, pili.994959.xyz,emby
+host, caddy.pilipili.me,emby
+host, vn.pili.im,emby
+host, manga.pilipiliultra.com,emby
 host, streamer-cf.pilipiliultra.com,emby
 # 二次元
 host, media.nijigem.by,emby
