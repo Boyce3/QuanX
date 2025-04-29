@@ -1,4 +1,4 @@
-# 更新时间 2025-04-27
+# 更新时间 2025-04-29
 
 # 守候网络
 host, emby.cn2gias.uk,emby
@@ -39,7 +39,7 @@ ip-cidr, 188.172.228.65/32,emby
 host, plumber.nezhasu.com,emby
 host, shouer.910427.xyz,emby
 # Saturday
-host, lite.saturday.video,emby
+host, lite.saturdayvideo.top,emby
 # 西瓜
 host, 1024.name,emby
 host, cf.1024.one,emby
