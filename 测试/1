@@ -1,1 +1,20 @@
-ceshi
+#!name = 修改UA
+#!desc = 
+#!author = Boyce3
+#!tag = 工具
+#!system = iOS, iPadOS
+#!loon_version = 3.2.5
+#!icon = https://raw.githubusercontent.com/Boyce3/Icons/main/Mobile/UA.png
+#!date = 2025-02-14
+
+[Rewrite]
+https:\/\/rucu6.\pages.\dev header-replace User-Agent Surge\x20iOS/3367
+https:\/\/rucu6.\pages.\dev response-header-add content-disposition inline
+https:\/\/rucu6.\pages.\dev response-header-replace content-type text/plain;\x20charset=utf-8
+
+
+
+
+
+[MITM]
+hostname = rucu6.pages.dev
