@@ -1,4 +1,4 @@
-# 更新时间 2025-05-05
+# 更新时间 2025-05-12
 
 # 守候网络
 host, emby.cn2gias.uk,emby
@@ -65,6 +65,11 @@ host, auroramedia.vip,emby
 # 惊蛰
 host, stream2.jingzhe.pro,emby
 host, emby.jingzhe.pro,emby
+# 入机
+host, embycf.rjemby.com,emby
+host, hkdg.998903.xyz,emby
+host, embyhk.rjemby.com,emby
+host, embylu.rjemby.com,emby
 # Kiku
 host, emby.ucloudhost.top,emby
 # HKA
