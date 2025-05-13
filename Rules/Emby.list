@@ -26,6 +26,10 @@ host, manga.pilipiliultra.com,emby
 host, streamer-cf.pilipiliultra.com,emby
 # 二次元
 host, media.nijigem.by,emby
+host, default.cdn.bgp.yt,emby
+host, ct.cdn.bgp.yt,emby
+host, us-w.cdn.bgp.yt,emby
+host, cu.cdn.bgp.yt,emby
 # Nyamedia
 host, emby.bangumi.ca,emby
 # Doubon
@@ -59,7 +63,6 @@ host, jp.lilyemby.my,emby
 host, cdn.lilyemby.my,emby
 # 非越
 host, z.sfcj.org,emby
-host, v6.sfcj.org,emby
 host, cf.sfcj.org,emby
 # 惊蛰
 host, stream2.jingzhe.pro,emby
@@ -79,11 +82,9 @@ ip-cidr, 193.122.114.13/32,emby
 host, 581658.best,emby
 # 大V影院
 host, su.viclub.top,emby
-host, sj.viclub.top,emby
 host, vi-hk-1.vfing.de,emby
 host, vi-hk-2.vfing.de,emby
 host, vi-sg.vfing.de,emby
-host, vi-jp.vfing.de,emby
 # 叔服
 host, emby3.mcjoker.xyz,emby
 # CC
