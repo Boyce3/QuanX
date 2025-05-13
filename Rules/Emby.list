@@ -1,4 +1,4 @@
-# 更新时间 2025-05-12
+# 更新时间 2025-05-13
 
 # 守候网络
 host, emby.cn2gias.uk,emby
@@ -15,6 +15,7 @@ host-suffix, jmsuper.com,emby
 host, embyplus.org,emby
 host, emby4.029902.xyz,emby
 host, gd.9521732.xyz,emby
+host,stream.embyplus.org
 # PiliPili
 host, emby-direct.pilipiliultra.com,emby
 host, emby.pilipiliultra.com,emby
@@ -25,13 +26,13 @@ host, manga.pilipiliultra.com,emby
 host, streamer-cf.pilipiliultra.com,emby
 # 二次元
 host, media.nijigem.by,emby
-# nyamedia
+# Nyamedia
 host, emby.bangumi.ca,emby
 # Doubon
 host, onatoshi.114514.quest,emby
 # 电报服
 host, cf.imetyou.top,emby
-# 琴鸟
+# Lyrebird
 host, cdn.lyrebirdemby.com,emby
 host, inside.lyrebirdemby.com,emby
 ip-cidr, 188.172.228.65/32,emby
@@ -60,8 +61,6 @@ host, cdn.lilyemby.my,emby
 host, z.sfcj.org,emby
 host, v6.sfcj.org,emby
 host, cf.sfcj.org,emby
-# 极光
-host, auroramedia.vip,emby
 # 惊蛰
 host, stream2.jingzhe.pro,emby
 host, emby.jingzhe.pro,emby
