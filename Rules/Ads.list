@@ -9,27 +9,7 @@ host-suffix, beizi.biz, reject
 host-suffix, beizi.biz, reject
 host-suffix, dsp-x.jd.com, reject
 host, adx-data.yfanads.com, reject
-host, adx-bj.anythinktech.com, reject
-host, tk.anythinktech.com, reject
-host, v2mi.gdt.qq.com, reject
-host, sdk.e.qq.com, reject
-host, sf3-fe-tos.pglstatp-toutiao.com, reject
-host, api-access.pangolin-sdk-toutiao.com, reject
-host, log-api.pangolin-sdk-toutiao.com, reject
-host, api-access.pangolin-sdk-toutiao1.com, reject
-host, log-api.pangolin-sdk-toutiao.com, reject
-host, gromore.pangolin-sdk-toutiao.com, reject
-host, adsmind.ugdtimg.com, reject
-host, sdklog.adintl.cn, reject
-host, mssdk.volces.com, reject
-host, impdsp.meituan.com, reject
-host, v3.gdt.qq.com, reject
-host, win.gdt.qq.com, reject
-host, apmplus.volces.com, reject
-host, resolve.umeng.com, reject
-host, cnlogs.umengcloud.com, reject
-host, cnlogs.umeng.com, reject
-host, dm.toutiao.com, reject
+
 # ======= W ======= #
 # 微信公众号
 host-suffix, wxs.qq.com, reject
