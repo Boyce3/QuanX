@@ -1,4 +1,4 @@
-# 2025-05-16
+# 2025-05-17
 
 # ======= B ======= #
 # 哔哩哔哩
@@ -6,6 +6,7 @@ host, upos-sz-staticcos.bilivideo.com, reject
 
 # ======= G ======= #
 host, adx-data.yfanads.com, reject
+host, baishan.cdn.adintl.cn, reject
 
 # Beizi
 host, sdk.beizi.biz, reject
