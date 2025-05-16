@@ -5,10 +5,51 @@
 host, upos-sz-staticcos.bilivideo.com, reject
 
 # ======= G ======= #
-host-suffix, beizi.biz, reject
-host-suffix, beizi.biz, reject
-host-suffix, dsp-x.jd.com, reject
 host, adx-data.yfanads.com, reject
+
+# Beizi
+host, sdk.beizi.biz, reject
+host, api-htp.beizi.biz, reject
+
+# JD.com
+host, dsp-x.jd.com, reject
+host, im-x.jd.com, reject
+host, xlog.jd.com, reject
+host, janapi.jd.com, reject
+
+# NetEase & Anythinktech
+host, nex.163.com, reject
+host, iad.g.163.com, reject
+host, adx-bj.anythinktech.com, reject
+host, api.anythinktech.com, reject
+host, tk.anythinktech.com, reject
+host, da.anythinktech.com, reject
+host, gorgon.youdao.com, reject
+
+# Volces
+host, mssdk.volces.com, reject
+
+# Bridgeoos
+host, tk.bridgeoos.com, reject
+host, da.bridgeoos.com, reject
+host, api.bridgeoos.com, reject
+host, adx-os.bridgeoos.com, reject
+host, adx-sg-req.bridgeoos.com, reject
+host-suffix, bridgeoos.com, reject
+
+# Umeng
+host, cnlogs.umeng.com, reject
+host, errlog.umeng.com, reject
+host, errnewlog.umeng.com, reject
+host, ucc.umeng.com, reject
+host, ulogs.umeng.com, reject
+host, utoken.umeng.com, reject
+host, deeplink.umeng.com, reject
+host, aspect-upush.umeng.com, reject
+host, plbslog.umeng.com, reject
+host, log.umtrack.com, reject
+host, aaid.umeng.com, reject
+host, log.umsns.com, reject
 
 # ======= W ======= #
 # 微信公众号
