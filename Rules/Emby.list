@@ -1,103 +1,103 @@
-# 更新时间 2025-05-13
+# 2025-05-18
 
 # 守候网络
-host, emby.cn2gias.uk,emby
+host, emby.cn2gias.uk, Emby
 # 终点站
-host, pub1.emby.wtf,emby
-host, pub1.term.wtf,emby
-host, pub2.emby.wtf,emby
-host, pub2.term.wtf,emby
-host, pub3.emby.wtf,emby
-host, pub3.term.wtf,emby
+host, pub1.emby.wtf, Emby
+host, pub1.term.wtf, Emby
+host, pub2.emby.wtf, Emby
+host, pub2.term.wtf, Emby
+host, pub3.emby.wtf, Emby
+host, pub3.term.wtf, Emby
 # 卷毛鼠
-host-suffix, jmsuper.com,emby
+host-suffix, jmsuper.com, Emby
 # 纸片人小站
-host, embyplus.org,emby
-host, emby4.029902.xyz,emby
-host, gd.9521732.xyz,emby
-host, stream.embyplus.org,emby
+host, embyplus.org, Emby
+host, emby4.029902.xyz, Emby
+host, gd.9521732.xyz, Emby
+host, stream.embyplus.org, Emby
 # PiliPili
-host, emby-direct.pilipiliultra.com,emby
-host, emby.pilipiliultra.com,emby
-host, pili.994959.xyz,emby
-host, caddy.pilipili.me,emby
-host, vn.pili.im,emby
-host, manga.pilipiliultra.com,emby
-host, streamer-cf.pilipiliultra.com,emby
+host, emby-direct.pilipiliultra.com, Emby
+host, emby.pilipiliultra.com, Emby
+host, pili.994959.xyz, Emby
+host, caddy.pilipili.me, Emby
+host, vn.pili.im, Emby
+host, manga.pilipiliultra.com, Emby
+host, streamer-cf.pilipiliultra.com, Emby
 # 二次元
-host, media.nijigem.by,emby
-host, default.cdn.bgp.yt,emby
-host, ct.cdn.bgp.yt,emby
-host, us-w.cdn.bgp.yt,emby
-host, cu.cdn.bgp.yt,emby
+host, media.nijigem.by, Emby
+host, default.cdn.bgp.yt, Emby
+host, ct.cdn.bgp.yt, Emby
+host, us-w.cdn.bgp.yt, Emby
+host, cu.cdn.bgp.yt, Emby
 # Nyamedia
-host, emby.bangumi.ca,emby
+host, emby.bangumi.ca, Emby
 # Doubon
-host, onatoshi.114514.quest,emby
+host, onatoshi.114514.quest, Emby
 # 电报服
-host, cf.imetyou.top,emby
+host, cf.imetyou.top, Emby
 # Lyrebird
-host, cdn.lyrebirdemby.com,emby
-host, inside.lyrebirdemby.com,emby
-ip-cidr, 188.172.228.65/32,emby
+host, cdn.lyrebirdemby.com, Emby
+host, inside.lyrebirdemby.com, Emby
+ip-cidr, 188.172.228.65/32, Emby
 # Plumber
-host, plumber.nezhasu.com,emby
-host, shouer.910427.xyz,emby
+host, plumber.nezhasu.com, Emby
+host, shouer.910427.xyz, Emby
 # Saturday
-host, lite.saturdayvideo.top,emby
+host, lite.saturdayvideo.top, Emby
 # 西瓜
-host, 1024.name,emby
-host, cf.1024.one,emby
-host, seoul.1024.name,emby
-host, sjc.1024.name,emby
-host, daigua.j8.work,emby
-host, mzlpin.1024.one,emby
+host, 1024.name, Emby
+host, cf.1024.one, Emby
+host, seoul.1024.name, Emby
+host, sjc.1024.name, Emby
+host, daigua.j8.work, Emby
+host, mzlpin.1024.one, Emby
 # 卡戎
-host, play.charontv.com,emby
+host, play.charontv.com, Emby
 # 天南
-host, us.nanflix.net,emby
+host, us.nanflix.net, Emby
 # 莉莉服
-host, cf.lilyemby.my,emby
-host, hk.lilyemby.my,emby
-host, jp.lilyemby.my,emby
-host, cdn.lilyemby.my,emby
+host, cf.lilyemby.my, Emby
+host, hk.lilyemby.my, Emby
+host, jp.lilyemby.my, Emby
+host, cdn.lilyemby.my, Emby
 # 非越
-host, z.sfcj.org,emby
-host, cf.sfcj.org,emby
+host, z.sfcj.org, Emby
+host, cf.sfcj.org, Emby
 # 惊蛰
-host, stream2.jingzhe.pro,emby
-host, emby.jingzhe.pro,emby
+host, stream2.jingzhe.pro, Emby
+host, emby.jingzhe.pro, Emby
 # 入机
-host, embycf.rjemby.com,emby
-host, hkdg.998903.xyz,emby
-host, embyhk.rjemby.com,emby
+host, rjcf.rjf37.com, Emby
+host, rjhkgcp.rjf37.com, Emby
+host, rjhk.rjf37.com, Emby
 # Kiku
-host, emby.ucloudhost.top,emby
+host, emby.ucloudhost.top, Emby
 # Maoyan
-host, frre.me,emby
+host, frre.me, Emby
 # HKA
-host, hka-emby3.aliz.work,emby
+host, hka-emby3.aliz.work, Emby
 # 飞跃彩虹
-host, 7777777.buzz,emby
-ip-cidr, 193.122.114.13/32,emby
-host, 581658.best,emby
+host, 7777777.buzz, Emby
+ip-cidr, 193.122.114.13/32, Emby
+host, 581658.best, Emby
 # 大V影院
-host, su.viclub.top,emby
-host, vi-hk-1.vfing.de,emby
-host, vi-hk-2.vfing.de,emby
-host, vi-sg.vfing.de,emby
+host, su.viclub.top, Emby
+host, vi-hk-1.vfing.de, Emby
+host, vi-hk-2.vfing.de, Emby
+host, vi-sg.vfing.de, Emby
 # 叔服
-host, emby3.mcjoker.xyz,emby
+host, emby3.mcjoker.xyz, Emby
 # CC
-host, cc.coemn.com,emby
-host, cc.embycc.link,emby
-host, dl.carryz.net,emby
+host, cc.coemn.com, Emby
+host, cc.embycc.link, Emby
+host, dl.carryz.net, Emby
 # 起点站
-host, free.28.al,emby
-host, qdzfreecdn.b-cdn.net,emby
+host, free.28.al, Emby
+host, qdzfreecdn.b-cdn.net, Emby
 # 影迹
-host, emby1.123456789.lol,emby
+host, emby1.123456789.lol, Emby
 # Levilde
-host, eggtartemby.itsmyduty.top,emby
+host, eggtartemby.itsmyduty.top, Emby
 # 叶子
-host, gm.yezi.my,emby
+host, gm.yezi.my, Emby
