@@ -68,7 +68,7 @@ host-suffix, union.baidu.com, reject
 host, sdk.beizi.biz, reject
 host, api-htp.beizi.biz, reject
 
-# JD.com
+# JD
 host, dsp-x.jd.com, reject
 host, im-x.jd.com, reject
 host, xlog.jd.com, reject
