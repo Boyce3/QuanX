@@ -46,6 +46,24 @@ host-suffix, l.qq.com, reject
 host-suffix, ugdtimg.com, reject
 ip-cidr, 47.110.187.87/32, reject
 
+# baidu
+host, afd.baidu.com, reject
+host, als.baidu.com, reject
+host, bgg.baidu.com, reject
+host, cpro.baidustatic.com, reject
+host, feed-image.baidu.com, reject
+host, click-bes.baidu.com, reject
+host, eclick.baidu.com, reject
+host, mobads-logs.baidu.com, reject
+host, mobads-pre-config.cdn.bcebos.com, reject
+host, mobads.baidu.com, reject
+host, nadvideo2.baidu.com, reject
+host, wn.pos.baidu.com, reject
+host, miniapp-ad.cdn.bcebos.com, reject
+host, mobads-pre-config.cdn.bcebos.com, reject
+host-suffix, union.baidu.cn, reject
+host-suffix, union.baidu.com, reject
+
 # Beizi
 host, sdk.beizi.biz, reject
 host, api-htp.beizi.biz, reject
