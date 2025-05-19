@@ -1,7 +1,9 @@
-# 2025-05-18
+# NAME: Emby
+# UPDATED: 2025-05-19
 
 # 守候网络
 host, emby.cn2gias.uk, Emby
+
 # 终点站
 host, pub1.emby.wtf, Emby
 host, pub1.term.wtf, Emby
@@ -9,13 +11,16 @@ host, pub2.emby.wtf, Emby
 host, pub2.term.wtf, Emby
 host, pub3.emby.wtf, Emby
 host, pub3.term.wtf, Emby
+
 # 卷毛鼠
 host-suffix, jmsuper.com, Emby
+
 # 纸片人小站
 host, embyplus.org, Emby
 host, emby4.029902.xyz, Emby
 host, gd.9521732.xyz, Emby
 host, stream.embyplus.org, Emby
+
 # PiliPili
 host, emby-direct.pilipiliultra.com, Emby
 host, emby.pilipiliultra.com, Emby
@@ -24,27 +29,35 @@ host, caddy.pilipili.me, Emby
 host, vn.pili.im, Emby
 host, manga.pilipiliultra.com, Emby
 host, streamer-cf.pilipiliultra.com, Emby
+
 # 二次元
 host, media.nijigem.by, Emby
 host, default.cdn.bgp.yt, Emby
 host, ct.cdn.bgp.yt, Emby
 host, us-w.cdn.bgp.yt, Emby
 host, cu.cdn.bgp.yt, Emby
+
 # Nyamedia
 host, emby.bangumi.ca, Emby
+
 # Doubon
 host, onatoshi.114514.quest, Emby
+
 # 电报服
 host, cf.imetyou.top, Emby
+
 # Lyrebird
 host, cdn.lyrebirdemby.com, Emby
 host, inside.lyrebirdemby.com, Emby
 ip-cidr, 188.172.228.65/32, Emby
+
 # Plumber
 host, plumber.nezhasu.com, Emby
 host, shouer.910427.xyz, Emby
+
 # Saturday
 host, lite.saturdayvideo.top, Emby
+
 # 西瓜
 host, 1024.name, Emby
 host, cf.1024.one, Emby
@@ -52,52 +65,72 @@ host, seoul.1024.name, Emby
 host, sjc.1024.name, Emby
 host, daigua.j8.work, Emby
 host, mzlpin.1024.one, Emby
+host, wm.atto.moe, Emby
+
 # 卡戎
 host, play.charontv.com, Emby
+
 # 天南
 host, us.nanflix.net, Emby
+
 # 莉莉服
 host, cf.lilyemby.my, Emby
 host, hk.lilyemby.my, Emby
 host, jp.lilyemby.my, Emby
 host, cdn.lilyemby.my, Emby
+
 # 非越
 host, z.sfcj.org, Emby
 host, cf.sfcj.org, Emby
+
 # 惊蛰
 host, stream2.jingzhe.pro, Emby
 host, emby.jingzhe.pro, Emby
+
 # 入机
 host, rjcf.rjf37.com, Emby
 host, rjhkgcp.rjf37.com, Emby
 host, rjhk.rjf37.com, Emby
+
 # Kiku
 host, emby.ucloudhost.top, Emby
+
 # Maoyan
 host, frre.me, Emby
+host, cat-eye.top, Emby
+
 # HKA
 host, hka-emby3.aliz.work, Emby
+
 # 飞跃彩虹
-host, 7777777.buzz, Emby
 ip-cidr, 193.122.114.13/32, Emby
+host, 7777777.buzz, Emby
 host, 581658.best, Emby
+
 # 大V影院
 host, su.viclub.top, Emby
 host, vi-hk-1.vfing.de, Emby
 host, vi-hk-2.vfing.de, Emby
 host, vi-sg.vfing.de, Emby
+
 # 叔服
 host, emby3.mcjoker.xyz, Emby
+
 # CC
 host, cc.coemn.com, Emby
 host, cc.embycc.link, Emby
 host, dl.carryz.net, Emby
+
 # 起点站
 host, free.28.al, Emby
 host, qdzfreecdn.b-cdn.net, Emby
+
 # 影迹
 host, emby1.123456789.lol, Emby
+host, emby2.9900990.buzz, Emby
+
 # Levilde
 host, eggtartemby.itsmyduty.top, Emby
+
 # 叶子
 host, gm.yezi.my, Emby
