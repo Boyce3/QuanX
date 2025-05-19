@@ -4,7 +4,8 @@
 # 哔哩哔哩
 host, upos-sz-staticcos.bilivideo.com, reject
 
-# ======= G ======= #
+# ==== 广告联盟 ====
+# Other
 host, adx-data.yfanads.com, reject
 host, baishan.cdn.adintl.cn, reject
 
@@ -44,7 +45,7 @@ host-keyword, trace.video.qq.com, reject
 host-suffix, gdt.qq.com, reject
 host-suffix, l.qq.com, reject
 host-suffix, ugdtimg.com, reject
-ip-cidr, 47.110.187.87/32, reject
+ip-cidr, 47.110.187.87/32, reject, no-resolve
 
 # baidu
 host, afd.baidu.com, reject
@@ -60,7 +61,6 @@ host, mobads.baidu.com, reject
 host, nadvideo2.baidu.com, reject
 host, wn.pos.baidu.com, reject
 host, miniapp-ad.cdn.bcebos.com, reject
-host, mobads-pre-config.cdn.bcebos.com, reject
 host-suffix, union.baidu.cn, reject
 host-suffix, union.baidu.com, reject
 
@@ -83,7 +83,7 @@ host, tk.anythinktech.com, reject
 host, da.anythinktech.com, reject
 host, gorgon.youdao.com, reject
 
-# Volces
+# Volives
 host, mssdk.volces.com, reject
 
 # Bridgeoos
@@ -107,6 +107,7 @@ host, plbslog.umeng.com, reject
 host, log.umtrack.com, reject
 host, aaid.umeng.com, reject
 host, log.umsns.com, reject
+host, ulogs.umengcloud.com, reject
 
 # ======= W ======= #
 # 微信公众号
