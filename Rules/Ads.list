@@ -1,4 +1,4 @@
-# 2025-05-17
+# 2025-05-19
 
 # ======= B ======= #
 # 哔哩哔哩
@@ -8,7 +8,7 @@ host, upos-sz-staticcos.bilivideo.com, reject
 host, adx-data.yfanads.com, reject
 host, baishan.cdn.adintl.cn, reject
 
-# Tencent Ads Blocking
+# Tencent
 host, adsmind.gdtimg.com, reject
 host, adsmind.ugdtimg.com, reject
 host, c2.gdt.qq.com, reject
