@@ -83,6 +83,11 @@ host, rjcf.rjf37.com, Emby
 host, rjhkgcp.rjf37.com, Emby
 host, rjhk.rjf37.com, Emby
 
+# 肥牛
+host, emby2.feiniu.lol, Emby
+host, emby3.feiniu.lol, Emby
+host, emby4.feiniu.lol, Emby
+
 # Kiku
 host, emby.ucloudhost.top, Emby
 
@@ -122,11 +127,6 @@ host, emby2.9900990.buzz, Emby
 
 # Levilde
 host, eggtartemby.itsmyduty.top, Emby
-
-# 肥牛
-host, emby2.feiniu.lol, Emby
-host, emby3.feiniu.lol, Emby
-host, emby4.feiniu.lol, Emby
 
 # 叶子
 host, gm.yezi.my, Emby
