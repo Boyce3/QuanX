@@ -59,13 +59,7 @@ host, shouer.910427.xyz, Emby
 host, lite.saturdayvideo.top, Emby
 
 # 西瓜
-host, 1024.name, Emby
-host, cf.1024.one, Emby
-host, seoul.1024.name, Emby
-host, sjc.1024.name, Emby
-host, daigua.j8.work, Emby
-host, mzlpin.1024.one, Emby
-host, wm.atto.moe, Emby
+host-suffix, chilledmelon.com, Emby
 
 # 卡戎
 host, play.charontv.com, Emby
