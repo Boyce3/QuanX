@@ -1,5 +1,5 @@
 # NAME: Emby
-# UPDATED: 2025-05-21
+# UPDATED: 2025-05-24
 
 # 守候网络
 host, emby.cn2gias.uk, Emby
@@ -84,6 +84,7 @@ host, rjhkgcp.rjf37.com, Emby
 host, rjhk.rjf37.com, Emby
 
 # 肥牛
+host, emby.feiniu.lol, Emby
 host, emby2.feiniu.lol, Emby
 host, emby3.feiniu.lol, Emby
 host, emby4.feiniu.lol, Emby
