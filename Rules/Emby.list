@@ -1,5 +1,5 @@
 # NAME: Emby
-# UPDATED: 2025-05-24
+# UPDATED: 2025-06-03
 
 # 守候网络
 host, emby.cn2gias.uk, Emby
@@ -131,3 +131,6 @@ host, eggtartemby.itsmyduty.top, Emby
 
 # 叶子
 host, gm.yezi.my, Emby
+
+# 无界云
+host, emby.mjji.de, emby
