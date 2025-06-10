@@ -1,5 +1,5 @@
 # NAME: Emby
-# UPDATED: 2025-06-03
+# UPDATED: 2025-06-10
 
 # 守候网络
 host, emby.cn2gias.uk, Emby
@@ -100,9 +100,7 @@ host, cat-eye.top, Emby
 host, hka-emby3.aliz.work, Emby
 
 # 飞跃彩虹
-ip-cidr, 193.122.114.13/32, Emby
-host, 7777777.buzz, Emby
-host, 581658.best, Emby
+host, yhemby.top, Emby
 
 # 大V影院
 host, su.viclub.top, Emby
