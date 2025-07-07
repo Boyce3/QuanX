@@ -1,5 +1,5 @@
 # NAME: Emby
-# UPDATED: 2025-06-10
+# UPDATED: 2025-07-07
 
 # 守候网络
 host, emby.cn2gias.uk, Emby
@@ -100,7 +100,7 @@ host, cat-eye.top, Emby
 host, hka-emby3.aliz.work, Emby
 
 # 飞跃彩虹
-host, yhemby.top, Emby
+host, ch.feiyue.lol, Emby
 
 # 大V影院
 host, su.viclub.top, Emby
