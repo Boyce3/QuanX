@@ -60,6 +60,9 @@ host,cdn.lyrebirdemby.com,Emby
 host,inside.lyrebirdemby.com,Emby
 ip-cidr,188.172.228.65/32,Emby
 
+# Nanflix-US
+host,us.nanflix.net,Emby
+
 # Saturday
 host,lite.saturdayvideo.top,Emby
 
