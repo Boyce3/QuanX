@@ -90,12 +90,8 @@ host,rjhk.rjf37.com,Emby
 host,emby1.ucloudhost.top,Emby
 host,emby2.ucloudhost.top,Emby
 
-# Maoyan
-host, frre.me, Emby
-host, cat-eye.top, Emby
-
 # HKA
-host, hka-emby3.aliz.work, Emby
+host,hka-emby.aliz.work,Emby
 
 # Plumber
 host,plumber.nezhasu.com,Emby
@@ -105,10 +101,11 @@ host,shouer.910427.xyz,Emby
 host, ch.feiyue.lol, Emby
 
 # 大V影院
-host, su.viclub.top, Emby
-host, vi-hk-1.vfing.de, Emby
-host, vi-hk-2.vfing.de, Emby
-host, vi-sg.vfing.de, Emby
+host,su.viclub.top,Emby
+host,jp.viclub.top,Emby
+host,sg.viclub.top,Emby
+host,vi-hk-1.vfing.de,Emby
+host,vi-hk-2.vfing.de,Emby
 
 # 叔服
 host, emby3.mcjoker.xyz, Emby
