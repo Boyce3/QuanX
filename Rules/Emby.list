@@ -73,20 +73,22 @@ host,jp.lilyemby.my,Emby
 host,by.lilyemby.my,Emby
 
 # 非越
-host, z.sfcj.org, Emby
-host, cf.sfcj.org, Emby
+host,z.sfcj.org,Emby
+host,cf.sfcj.org,Emby
 
 # 惊蛰
-host, stream2.jingzhe.pro, Emby
-host, emby.jingzhe.pro, Emby
+host,stream2.jingzhe.pro,Emby
+host,emby.jingzhe.pro,Emby
 
 # 入机
-host, rjcf.rjf37.com, Emby
-host, rjhkgcp.rjf37.com, Emby
-host, rjhk.rjf37.com, Emby
+host,rjcf.rjf37.com,Emby
+host,rjhl.xytx.org,Emby
+host,rjhl.xytx.org,Emby
+host,rjhk.rjf37.com,Emby
 
 # Kiku
-host, emby.ucloudhost.top, Emby
+host,emby1.ucloudhost.top,Emby
+host,emby2.ucloudhost.top,Emby
 
 # Maoyan
 host, frre.me, Emby
