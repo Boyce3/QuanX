@@ -1,8 +1,13 @@
 # NAME: Emby
-# UPDATED: 2025-07-07
+# UPDATED: 2025-07-25
+
+# KiKi
+host,ttkx8888.iepose.cn,Emby
+host,emby.kiki888.fun,Emby
 
 # 守候网络
-host, emby.cn2gias.uk, Emby
+host,emby.cn2gias.uk,Emby
+host,emby01.cn2gias.ukEmby
 
 # 终点站
 host, pub1.emby.wtf, Emby
