@@ -72,12 +72,6 @@ host,cdn.lilyemby.my,Emby
 host,jp.lilyemby.my,Emby
 host,by.lilyemby.my,Emby
 
-# Plumber
-host,plumber.nezhasu.com,Emby
-host,shouer.910427.xyz,Emby
-
-
-
 # 非越
 host, z.sfcj.org, Emby
 host, cf.sfcj.org, Emby
@@ -91,12 +85,6 @@ host, rjcf.rjf37.com, Emby
 host, rjhkgcp.rjf37.com, Emby
 host, rjhk.rjf37.com, Emby
 
-# 肥牛
-host, emby.feiniu.lol, Emby
-host, emby2.feiniu.lol, Emby
-host, emby3.feiniu.lol, Emby
-host, emby4.feiniu.lol, Emby
-
 # Kiku
 host, emby.ucloudhost.top, Emby
 
@@ -106,6 +94,10 @@ host, cat-eye.top, Emby
 
 # HKA
 host, hka-emby3.aliz.work, Emby
+
+# Plumber
+host,plumber.nezhasu.com,Emby
+host,shouer.910427.xyz,Emby
 
 # 飞跃彩虹
 host, ch.feiyue.lol, Emby
