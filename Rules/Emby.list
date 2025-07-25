@@ -56,16 +56,18 @@ host,onatoshi.114514.quest,Emby
 host, cf.imetyou.top, Emby
 
 # Lyrebird
-host, cdn.lyrebirdemby.com, Emby
-host, inside.lyrebirdemby.com, Emby
-ip-cidr, 188.172.228.65/32, Emby
-
-# Plumber
-host, plumber.nezhasu.com, Emby
-host, shouer.910427.xyz, Emby
+host,cdn.lyrebirdemby.com,Emby
+host,inside.lyrebirdemby.com,Emby
+ip-cidr,188.172.228.65/32,Emby
 
 # Saturday
-host, lite.saturdayvideo.top, Emby
+host,lite.saturdayvideo.top,Emby
+
+# Plumber
+host,plumber.nezhasu.com,Emby
+host,shouer.910427.xyz,Emby
+
+
 
 # 西瓜
 host-suffix, chilledmelon.com, Emby
