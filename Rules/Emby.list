@@ -22,22 +22,22 @@ host, pub3.emby.wtf, Emby
 host, pub3.term.wtf, Emby
 
 # 卷毛鼠
-host-suffix, jmsuper.com, Emby
+host-suffix,jmsuper.com,Emby
 
 # 纸片人小站
-host, embyplus.org, Emby
-host, emby4.029902.xyz, Emby
-host, gd.9521732.xyz, Emby
-host, stream.embyplus.org, Emby
+host,embyplus.org,Emby
+host,emby4.029902.xyz,Emby
+host,gd.9521732.xyz,Emby
+host,stream.embyplus.org,Emby
 
 # PiliPili
-host, emby-direct.pilipiliultra.com, Emby
-host, emby.pilipiliultra.com, Emby
-host, pili.994959.xyz, Emby
-host, caddy.pilipili.me, Emby
-host, vn.pili.im, Emby
-host, manga.pilipiliultra.com, Emby
-host, streamer-cf.pilipiliultra.com, Emby
+host,emby-direct.pilipiliultra.com,Emby
+host,emby.pilipiliultra.com,Emby
+host,pili.994959.xyz,Emby
+host,caddy.pilipili.me,Emby
+host,vn.pili.im,Emby
+host,manga.pilipiliultra.com,Emby
+host,streamer-cf.pilipiliultra.com,Emby
 
 # 二次元
 host, media.nijigem.by, Emby
