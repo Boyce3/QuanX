@@ -14,12 +14,12 @@ host,lite.cn2gias.uk,Emby
 host,lite-v6.cn2gias.uk,Emby
 
 # 终点站
-host, pub1.emby.wtf, Emby
-host, pub1.term.wtf, Emby
-host, pub2.emby.wtf, Emby
-host, pub2.term.wtf, Emby
-host, pub3.emby.wtf, Emby
-host, pub3.term.wtf, Emby
+host,pub1.emby.wtf,Emby
+host,pub1.term.wtf,Emby
+host,pub2.emby.wtf,Emby
+host,pub2.term.wtf,Emby
+host,pub3.emby.wtf,Emby
+host,pub3.term.wtf,Emby
 
 # 卷毛鼠
 host-suffix,jmsuper.com,Emby
@@ -40,17 +40,17 @@ host,manga.pilipiliultra.com,Emby
 host,streamer-cf.pilipiliultra.com,Emby
 
 # 二次元
-host, media.nijigem.by, Emby
-host, default.cdn.bgp.yt, Emby
-host, ct.cdn.bgp.yt, Emby
-host, us-w.cdn.bgp.yt, Emby
-host, cu.cdn.bgp.yt, Emby
+host,media.nijigem.by,Emby
+host,default.cdn.bgp.yt,Emby
+host,ct.cdn.bgp.yt,Emby
+host,us-w.cdn.bgp.yt,Emby
+host,cu.cdn.bgp.yt,Emby
 
 # Nyamedia
-host, emby.bangumi.ca, Emby
+host,emby.bangumi.ca,Emby
 
 # Doubon
-host, onatoshi.114514.quest, Emby
+host,onatoshi.114514.quest,Emby
 
 # 电报服
 host, cf.imetyou.top, Emby
