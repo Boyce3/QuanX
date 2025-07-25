@@ -63,23 +63,20 @@ ip-cidr,188.172.228.65/32,Emby
 # Saturday
 host,lite.saturdayvideo.top,Emby
 
+# 卡戎
+host, play.charontv.com, Emby
+
+# 莉莉服
+host,cf.lilyemby.my,Emby
+host,cdn.lilyemby.my,Emby
+host,jp.lilyemby.my,Emby
+host,by.lilyemby.my,Emby
+
 # Plumber
 host,plumber.nezhasu.com,Emby
 host,shouer.910427.xyz,Emby
 
 
-
-# 西瓜
-host-suffix, chilledmelon.com, Emby
-
-# 卡戎
-host, play.charontv.com, Emby
-
-# 莉莉服
-host, cf.lilyemby.my, Emby
-host, hk.lilyemby.my, Emby
-host, jp.lilyemby.my, Emby
-host, cdn.lilyemby.my, Emby
 
 # 非越
 host, z.sfcj.org, Emby
