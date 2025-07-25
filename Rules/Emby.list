@@ -119,10 +119,6 @@ host,dl.carryz.net,Emby
 host,free.28.al,Emby
 host,qdzfreecdn.b-cdn.net,Emby
 
-# 影迹
-host, emby1.123456789.lol, Emby
-host, emby2.9900990.buzz, Emby
-
 # Levilde
 host, eggtartemby.itsmyduty.top, Emby
 
