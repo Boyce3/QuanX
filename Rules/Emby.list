@@ -53,7 +53,7 @@ host,emby.bangumi.ca,Emby
 host,onatoshi.114514.quest,Emby
 
 # 电报服
-host, cf.imetyou.top, Emby
+host,cf.imetyou.top,Emby
 
 # Lyrebird
 host,cdn.lyrebirdemby.com,Emby
@@ -64,7 +64,7 @@ ip-cidr,188.172.228.65/32,Emby
 host,lite.saturdayvideo.top,Emby
 
 # 卡戎
-host, play.charontv.com, Emby
+host,play.charontv.com,Emby
 
 # 莉莉服
 host,cf.lilyemby.my,Emby
@@ -98,7 +98,7 @@ host,plumber.nezhasu.com,Emby
 host,shouer.910427.xyz,Emby
 
 # 飞跃彩虹
-host, ch.feiyue.lol, Emby
+host,ch.feiyue.lol,Emby
 
 # 大V影院
 host,su.viclub.top,Emby
@@ -108,16 +108,16 @@ host,vi-hk-1.vfing.de,Emby
 host,vi-hk-2.vfing.de,Emby
 
 # 叔服
-host, emby3.mcjoker.xyz, Emby
+host,emby3.mcjoker.xyz,Emby
 
 # CC
-host, cc.coemn.com, Emby
-host, cc.embycc.link, Emby
-host, dl.carryz.net, Emby
+host,cc.coemn.com,Emby
+host,cc.embycc.link,Emby
+host,dl.carryz.net,Emby
 
 # 起点站
-host, free.28.al, Emby
-host, qdzfreecdn.b-cdn.net, Emby
+host,free.28.al,Emby
+host,qdzfreecdn.b-cdn.net,Emby
 
 # 影迹
 host, emby1.123456789.lol, Emby
