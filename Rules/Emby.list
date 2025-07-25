@@ -9,6 +9,10 @@ host,emby.kiki888.fun,Emby
 host,emby.cn2gias.uk,Emby
 host,emby01.cn2gias.ukEmby
 
+# 守候公益
+host,lite.cn2gias.uk,Emby
+host,lite-v6.cn2gias.uk,Emby
+
 # 终点站
 host, pub1.emby.wtf, Emby
 host, pub1.term.wtf, Emby
