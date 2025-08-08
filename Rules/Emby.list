@@ -1,5 +1,5 @@
 # NAME: Emby
-# UPDATED: 2025-07-25
+# UPDATED: 2025-08-08
 
 # KiKi
 host,ttkx8888.iepose.cn,Emby
@@ -117,10 +117,6 @@ host,emby3.mcjoker.xyz,Emby
 host,cc.coemn.com,Emby
 host,cc.embycc.link,Emby
 host,dl.carryz.net,Emby
-
-# 起点站
-host,free.28.al,Emby
-host,qdzfreecdn.b-cdn.net,Emby
 
 # Levilde
 host,eggtartemby.itsmyduty.top,Emby
