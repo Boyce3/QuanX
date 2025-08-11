@@ -1,5 +1,5 @@
 # NAME: Emby
-# UPDATED: 2025-08-08
+# UPDATED: 2025-08-11
 
 # KiKi
 host,ttkx8888.iepose.cn,Emby
@@ -83,22 +83,12 @@ host,cf.sfcj.org,Emby
 host,stream2.jingzhe.pro,Emby
 host,emby.jingzhe.pro,Emby
 
-# 入机
-host,rjcf.rjf37.com,Emby
-host,rjcf.xytx.org,Emby
-host,rjhl.xytx.org,Emby
-host,rjhk.rjf37.com,Emby
-
 # Kiku
 host,emby1.ucloudhost.top,Emby
 host,emby2.ucloudhost.top,Emby
 
 # HKA
 host,hka-emby.aliz.work,Emby
-
-# Plumber
-host,plumber.nezhasu.com,Emby
-host,shouer.910427.xyz,Emby
 
 # 飞跃彩虹
 host,ch.feiyue.lol,Emby
