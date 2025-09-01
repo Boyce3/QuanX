@@ -1,5 +1,5 @@
 # NAME: Emby
-# UPDATED: 2025-08-11
+# UPDATED: 2025-09-01
 
 # KiKi
 host,ttkx8888.iepose.cn,Emby
@@ -76,8 +76,8 @@ host,jp.lilyemby.my,Emby
 host,by.lilyemby.my,Emby
 
 # 非越
-host,z.sfcj.org,Emby
 host,cf.sfcj.org,Emby
+host,cdn.sfcj.org,Emby
 
 # 惊蛰
 host,stream2.jingzhe.pro,Emby
