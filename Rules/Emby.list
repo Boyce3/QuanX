@@ -66,9 +66,6 @@ host,us.nanflix.net,Emby
 # Saturday
 host,lite.saturdayvideo.top,Emby
 
-# 卡戎
-host,play.charontv.com,Emby
-
 # 莉莉服
 host,cf.lilyemby.my,Emby
 host,cdn.lilyemby.my,Emby
