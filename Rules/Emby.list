@@ -1,11 +1,11 @@
 # NAME: Emby
-# UPDATED: 2025-09-01
+# UPDATED: 2025-09-14
 
 # KiKi
 host,ttkx8888.iepose.cn,Emby
 host,emby.kiki888.fun,Emby
 
-# 守候网络
+# 守候影院_机场服
 host,emby.cn2gias.uk,Emby
 host,emby01.cn2gias.uk,Emby
 
@@ -57,8 +57,10 @@ host,cf.imetyou.top,Emby
 
 # Lyrebird
 host,cdn.lyrebirdemby.com,Emby
+host,cdn.2580852.xyz,Emby
 host,inside.lyrebirdemby.com,Emby
 ip-cidr,188.172.228.65/32,Emby
+host,vip1.lyrebirdemby.com,Emby
 
 # Nanflix
 host,us.nanflix.net,Emby
@@ -69,6 +71,10 @@ host,lite.saturdayvideo.top,Emby
 # 莉莉服
 host,cf.lilyemby.my,Emby
 host,cdn.lilyemby.my,Emby
+HOST,o1.lilyemby.my,Emby
+HOST,o2.lilyemby.my,Emby
+HOST,o3.lilyemby.my,Emby
+HOST,o4.lilyemby.my,Emby
 host,jp.lilyemby.my,Emby
 host,by.lilyemby.my,Emby
 
