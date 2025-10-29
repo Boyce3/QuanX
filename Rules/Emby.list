@@ -71,7 +71,7 @@ host,lite.saturdayvideo.top,Emby
 # 莉莉服
 host,www.lilyemby.my,Emby
 host,cdn.lilyemby.my,Emby
-DOMAIN,tx.lilyemby.my,Emby
+host,tx.lilyemby.my,Emby
 
 # 非越
 host,cf.sfcj.org,Emby
@@ -95,7 +95,7 @@ host,ch.feiyue.lol,Emby
 host,su.viclub.top,Emby
 host,jp.viclub.top,Emby
 host,sg.viclub.top,Emby
-host,vi-hk-1.vfing.de,Emby
+host,cf.306699.xyz,Emby
 host,vi-hk-2.vfing.de,Emby
 
 # 叔服
