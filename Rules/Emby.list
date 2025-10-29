@@ -69,14 +69,9 @@ host,us.nanflix.net,Emby
 host,lite.saturdayvideo.top,Emby
 
 # 莉莉服
-host,cf.lilyemby.my,Emby
+host,www.lilyemby.my,Emby
 host,cdn.lilyemby.my,Emby
-HOST,o1.lilyemby.my,Emby
-HOST,o2.lilyemby.my,Emby
-HOST,o3.lilyemby.my,Emby
-HOST,o4.lilyemby.my,Emby
-host,jp.lilyemby.my,Emby
-host,by.lilyemby.my,Emby
+DOMAIN,tx.lilyemby.my,Emby
 
 # 非越
 host,cf.sfcj.org,Emby
