@@ -60,6 +60,7 @@ host,cdn.2580852.xyz,Emby
 host,inside.lyrebirdemby.com,Emby
 ip-cidr,188.172.228.65/32,Emby
 host,vip1.lyrebirdemby.com,Emby
+host,vip2.lyrebirdemby.com,Emby
 
 # Nanflix
 host,us.nanflix.net,Emby
