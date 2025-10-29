@@ -1,8 +1,8 @@
 # NAME: Emby
-# UPDATED: 2025-10-15
+# UPDATED: 2025-10-29
 
 # 无敌服
-host,emby.kiki888.fun,Emby
+host-suffix,kiki888.fun,Emby
 
 # KiKi
 host,ttkx8888.iepose.cn,Emby
