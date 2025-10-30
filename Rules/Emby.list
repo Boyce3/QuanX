@@ -1,5 +1,5 @@
 # NAME: Emby
-# UPDATED: 2025-10-29
+# UPDATED: 2025-10-30
 
 # 无敌服
 host-suffix,kiki888.fun,Emby
@@ -103,6 +103,7 @@ host,emby3.mcjoker.xyz,Emby
 host,cc.coemn.com,Emby
 host,cc.embycc.link,Emby
 host,dl.carryz.net,Emby
+host,lt1.carryz.net,Emby
 
 # Levilde
 host,eggtartemby.itsmyduty.top,Emby
