@@ -25,13 +25,7 @@ host-suffix,embyplus.org,Emby
 host,gd.9521732.xyz,Emby
 
 # PiliPili
-host,emby-direct.pilipiliultra.com,Emby
-host,emby.pilipiliultra.com,Emby
-host,pili.994959.xyz,Emby
-host,caddy.pilipili.me,Emby
-host,vn.pili.im,Emby
-host,manga.pilipiliultra.com,Emby
-host,streamer-cf.pilipiliultra.com,Emby
+host-suffix,emby-direct.pilipiliultra.com,Emby
 
 # 二次元
 host,media.nijigem.by,Emby
