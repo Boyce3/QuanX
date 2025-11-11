@@ -21,10 +21,8 @@ host,pub3.term.wtf,Emby
 host-suffix,jmsuper.com,Emby
 
 # 纸片人小站
-host,embyplus.org,Emby
-host,emby4.029902.xyz,Emby
+host-suffix,embyplus.org,Emby
 host,gd.9521732.xyz,Emby
-host,stream.embyplus.org,Emby
 
 # PiliPili
 host,emby-direct.pilipiliultra.com,Emby
