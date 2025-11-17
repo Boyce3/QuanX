@@ -1,5 +1,5 @@
 # NAME: Emby
-# UPDATED: 2025-11-11
+# UPDATED: 2025-11-17
 
 # 守候影院_机场服
 host,emby.cn2gias.uk,Emby
@@ -44,10 +44,10 @@ host,onatoshi.114514.quest,Emby
 host,cf.imetyou.top,Emby
 
 # Lyrebird
-host,stream1.lyrebirdemby.com,Emby
 host,cn-1.lyrebirdemby.online,Emby
 host,cn-2.lyrebirdemby.online,Emby
 ip-cidr,188.172.228.65/32,Emby
+ip-cidr,138.68.236.33//32,Emby
 
 # Saturday
 host,lite.saturdayvideo.top,Emby
