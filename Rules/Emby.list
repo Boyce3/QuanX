@@ -1,99 +1,57 @@
 # NAME: Emby
-# UPDATED: 2025-11-17
+# AUTHOR: Boyce3
+# UPDATED: 2026-01-03
 
-# 守候影院_机场服
-host,emby.cn2gias.uk,Emby
-host,emby01.cn2gias.uk,Emby
-
-# 守候公益
-host,lite.cn2gias.uk,Emby
-host,lite-v6.cn2gias.uk,Emby
-
+# 守候
+host-suffix,cn2gias.uk,Emby
 # 终点站
-host,pub1.emby.wtf,Emby
-host,pub1.term.wtf,Emby
-host,pub2.emby.wtf,Emby
-host,pub2.term.wtf,Emby
-host,pub3.emby.wtf,Emby
-host,pub3.term.wtf,Emby
-
+host-suffix,emby.wtf,Emby
+host-suffix,term.wtf,Emby
 # 卷毛鼠
 host-suffix,jmsuper.com,Emby
-
 # 纸片人小站
 host-suffix,embyplus.org,Emby
 host,gd.9521732.xyz,Emby
-
 # PiliPili
 host-suffix,pilipiliultra.com,Emby
-
 # 二次元
 host,media.nijigem.by,Emby
-host,default.cdn.bgp.yt,Emby
-host,ct.cdn.bgp.yt,Emby
-host,us-w.cdn.bgp.yt,Emby
-host,cu.cdn.bgp.yt,Emby
-
+host-suffix,cdn.bgp.yt,Emby
 # Nyamedia
-host,emby.bangumi.ca,Emby
-
+host-suffix,bangumi.ca,Emby
 # Doubon
 host,onatoshi.114514.quest,Emby
-
 # 电报服
 host,cf.imetyou.top,Emby
-
 # Lyrebird
-host,cn-1.lyrebirdemby.online,Emby
-host,cn-2.lyrebirdemby.online,Emby
+host-suffix,lyrebirdemby.online,Emby
 ip-cidr,188.172.228.65/32,Emby
 ip-cidr,138.68.236.33/32,Emby
-
 # Saturday
 host,lite.saturdayvideo.top,Emby
-
 # 莉莉服
+host,www.lilyemby.com,Emby
 host-suffix,lilyemby.my,Emby
-
 # 非越
-host,cf.sfcj.org,Emby
-host,cdn.sfcj.org,Emby
-
+host-suffix,sfcj.org,Emby
 # 惊蛰
-host,stream2.jingzhe.pro,Emby
-host,emby.jingzhe.pro,Emby
-
+host-suffix,jingzhe.pro,Emby
 # Kiku
-host,emby1.ucloudhost.top,Emby
-host,emby2.ucloudhost.top,Emby
-
+host-suffix,ucloudhost.top,Emby
 # HKA
 host,hka-emby.aliz.work,Emby
-
 # 飞跃彩虹
 host,ch.feiyue.lol,Emby
-
 # 大V影院
-host,su.viclub.top,Emby
-host,jp.viclub.top,Emby
-host,sg.viclub.top,Emby
+host-suffix,viclub.top,Emby
 host,cf.306699.xyz,Emby
 host,vi-hk-2.vfing.de,Emby
-
 # 叔服
 host,emby3.mcjoker.xyz,Emby
-
 # CC
 host,cc.coemn.com,Emby
 host,cc.embycc.link,Emby
 host,dl.carryz.net,Emby
 host,lt1.carryz.net,Emby
-
 # Levilde
 host,eggtartemby.itsmyduty.top,Emby
-
-# 叶子
-host,gm.yezi.my,Emby
-
-# 无界云
-host,emby.mjji.de,Emby
