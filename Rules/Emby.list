@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-01-03
+# UPDATED: 2026-01-09
 
 # 守候
 host-suffix,cn2gias.uk,Emby
@@ -30,8 +30,7 @@ ip-cidr,138.68.236.33/32,Emby
 # Saturday
 host,lite.saturdayvideo.top,Emby
 # 莉莉服
-host,www.lilyemby.com,Emby
-host-suffix,lilyemby.my,Emby
+host-suffix,lilyemby.com,Emby
 # 非越
 host-suffix,sfcj.org,Emby
 # 惊蛰
