@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-01-09
+# UPDATED: 2026-01-12
 
 # 守候
 host-suffix,cn2gias.uk,Emby
@@ -35,8 +35,6 @@ host-suffix,lilyemby.com,Emby
 host-suffix,sfcj.org,Emby
 # 惊蛰
 host-suffix,jingzhe.pro,Emby
-# Kiku
-host-suffix,ucloudhost.top,Emby
 # HKA
 host,hka-emby.aliz.work,Emby
 # 飞跃彩虹
