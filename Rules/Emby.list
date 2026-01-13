@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-01-12
+# UPDATED: 2026-01-13
 
 # 守候
 host-suffix,cn2gias.uk,Emby
@@ -50,4 +50,4 @@ host,cc.embycc.link,Emby
 host,dl.carryz.net,Emby
 host,lt1.carryz.net,Emby
 # Levilde
-host,eggtartemby.itsmyduty.top,Emby
+host,emby.levilde.bond,Emby
