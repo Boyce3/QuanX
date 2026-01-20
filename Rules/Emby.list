@@ -42,8 +42,6 @@ host,ch.feiyue.lol,Emby
 # 大V影院
 host-suffix,viclub.top,Emby
 host,cf.306699.xyz,Emby
-# 叔服
-host,emby3.mcjoker.xyz,Emby
 # CC
 host,cc.coemn.com,Emby
 host,cc.embycc.link,Emby
