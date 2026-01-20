@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-01-13
+# UPDATED: 2026-01-20
 
 # 守候
 host-suffix,cn2gias.uk,Emby
@@ -51,3 +51,18 @@ host,dl.carryz.net,Emby
 host,lt1.carryz.net,Emby
 # Levilde
 host,emby.levilde.bond,Emby
+
+# ----------以下随缘更新---------- #
+# 叶子
+host,gm.yezi.my,Emby
+# 无界云
+host,emby.mjji.de,Emby
+# 西瓜
+host-suffix,chilledmelon.com,Emby
+# 肥牛
+host-suffix,feiniu.lol,Emby
+# 憨豆
+host-suffix,handoumedia.top,Emby
+# 稳健
+host,emby.wenjian.de,Emby
+host,nc-list.wenjian.de,Emby
