@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-04-08
+# UPDATED: 2026-05-06
 
 # 纸片人小站
 host-suffix,embyplus.org,Emby
@@ -41,7 +41,7 @@ host,lite.saturdayent.top,Emby
 host-suffix,sfcj.org,Emby
 # 莉莉服
 host-suffix,lilyemby.com,Emby
-host,origin.lilyemby.cc,Emby
+HOST,cfstream.lilyya.top,Emby
 # 惊蛰
 host-suffix,jingzhe.pro,Emby
 # Levilde
