@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-05-06
+# UPDATED: 2026-06-01
 
 # 纸片人小站
 host-suffix,embyplus.org,Emby
@@ -39,6 +39,7 @@ ip-cidr,138.68.236.33/32,Emby
 host,lite.saturdayent.top,Emby
 # 非越
 host-suffix,sfcj.org,Emby
+host,media.emby.pro
 # 莉莉服
 host-suffix,lilyemby.com,Emby
 HOST,cfstream.lilyya.top,Emby
