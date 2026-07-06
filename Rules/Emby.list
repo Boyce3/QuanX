@@ -1,12 +1,15 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-06-01
+# UPDATED: 2026-07-06
 
+# 守候
+host-suffix,cn2gias.uk,Emby
+host,s2.array2026.cc,Emby
+# 卷毛鼠
+host-suffix,jmsuper.com,Emby
 # 纸片人小站
 host-suffix,embyplus.org,Emby
 host,gd.9521732.xyz,Emby
-# PiliPili
-host-suffix,pilipiliultra.com,Emby
 # 二次元
 host,media.nijigem.by,Emby
 host-suffix,cdn.bgp.yt,Emby
@@ -16,13 +19,6 @@ host-suffix,bangumi.ca,Emby
 host,onatoshi.114514.quest,Emby
 # 电报服
 host,cf.imetyou.top,Emby
-# 守候
-host-suffix,cn2gias.uk,Emby
-host,s2.array2026.cc,Emby
-# HKA
-host,hka-emby.aliz.work,Emby
-# 飞跃彩虹
-host,ch.feiyue.lol,Emby
 # 大V影院
 host-suffix,viclub.top,Emby
 host,cf.306699.xyz,Emby
@@ -43,12 +39,8 @@ host,media.emby.pro,Emby
 # 莉莉服
 host-suffix,lilyemby.com,Emby
 HOST,cfstream.lilyya.top,Emby
-# 惊蛰
-host-suffix,jingzhe.pro,Emby
 # Levilde
 host,emby.levilde.bond,Emby
-# 卷毛鼠
-host-suffix,jmsuper.com,Emby
 
 # ----------以下随缘更新---------- #
 # 叶子
