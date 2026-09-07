@@ -4,6 +4,9 @@
 
 # 终点站
 host,c.emby.wtf,Emby
+# 守候公益
+host,dc.newsntp.com,Emby
+host,lite.cn2gias.uk,Emby
 # 卷毛鼠
 host,mini.cr18.eu.org,Emby
 host,nano.cr18.eu.org,Emby
