@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-09-07
+# UPDATED: 2026-09-10
 
 # 终点站
 host,c.emby.wtf,Emby
@@ -36,9 +36,14 @@ ip-cidr,188.172.228.65/32,Emby
 ip-cidr,138.68.236.33/32,Emby
 # Saturday
 host,lite.saturdayent.top,Emby
-# 莉莉服
-host-suffix,lilyemby.com,Emby
-HOST,cfstream.lilyya.top,Emby
 # 非越
 host-suffix,sfcj.org,Emby
 host,media.emby.pro,Emby
+# 莉莉服
+host-suffix,lilyemby.com,Emby
+HOST,cfstream.lilyya.top,Emby
+# 予初
+host,aaa.yusen6.ccwu.cc,Emby
+host,emby.yusen.us.ci,Emby
+host,embya.yusen.cyou,Emby
+host,emby.yusen.cc.cd,Emby
