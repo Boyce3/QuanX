@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-09-23
+# UPDATED: 2026-09-28
 
 # 终点站
 host,c.emby.wtf,Emby
@@ -30,10 +30,6 @@ host,cc.coemn.com,Emby
 host,cc.embycc.link,Emby
 host,dl.carryz.net,Emby
 host,lt1.carryz.net,Emby
-# Lyrebird
-host-suffix,lyrebirdemby.online,Emby
-ip-cidr,188.172.228.65/32,Emby
-ip-cidr,138.68.236.33/32,Emby
 # Saturday
 host,lite.saturdayent.top,Emby
 # 非越
