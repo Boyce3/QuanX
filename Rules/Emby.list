@@ -1,6 +1,6 @@
 # NAME: Emby
 # AUTHOR: Boyce3
-# UPDATED: 2026-10-04
+# UPDATED: 2026-11-19
 
 # 终点站
 host,c.emby.wtf,Emby
@@ -22,6 +22,7 @@ host-suffix,bangumi.ca,Emby
 host,onatoshi.114514.quest,Emby
 # 电报服
 host,cf.imetyou.top,Emby
+host,alisttest.imetyou.top,Emby
 # 大V影院
 host-suffix,viclub.top,Emby
 host,cf.306699.xyz,Emby
